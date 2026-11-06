@@ -1,0 +1,11 @@
+{
+  "name": "@ledgerlens/api",
+  "private": true,
+  "scripts": {
+    "dev": "uv run ledgerlens-api",
+    "build": "echo 'api: no build step'",
+    "lint": "uv run ruff check .",
+    "typecheck": "uv run ruff check .",
+    "test": "uv run pytest -q"
+  }
+}

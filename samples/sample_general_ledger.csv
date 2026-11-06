@@ -1,0 +1,1027 @@
+je_id,line_no,posting_date,entry_timestamp,account,account_name,description,debit,credit,preparer,approver,source
+JE-100001,1,2026-03-12,2026-03-12 11:14:08,6100,Rent Expense,Monthly office rent,120.93,0,d.wilson,cfo,Automated
+JE-100001,2,2026-03-12,2026-03-12 11:14:08,1000,Cash,Monthly office rent,0,120.93,d.wilson,cfo,Automated
+JE-100002,1,2026-01-09,2026-01-09 08:05:13,1200,Inventory,Inventory purchase,193.6,0,a.khan,controller,Automated
+JE-100002,2,2026-01-09,2026-01-09 08:05:13,2000,Accounts Payable,Inventory purchase,0,193.6,a.khan,controller,Automated
+JE-100003,1,2026-06-16,2026-06-16 16:26:14,1200,Inventory,Inventory purchase,453.07,0,r.chen,controller,Automated
+JE-100003,2,2026-06-16,2026-06-16 16:26:14,2000,Accounts Payable,Inventory purchase,0,453.07,r.chen,controller,Automated
+JE-100004,1,2026-03-13,2026-03-13 10:13:48,6200,Utilities,Electricity and water,20130.75,0,m.lopez,controller,Automated
+JE-100004,2,2026-03-13,2026-03-13 10:13:48,2000,Accounts Payable,Electricity and water,0,20130.75,m.lopez,controller,Automated
+JE-100005,1,2026-04-02,2026-04-02 13:38:16,6100,Rent Expense,Monthly office rent,1793.74,0,k.nguyen,fin.manager,Automated
+JE-100005,2,2026-04-02,2026-04-02 13:38:16,1000,Cash,Monthly office rent,0,1793.74,k.nguyen,fin.manager,Automated
+JE-100006,1,2026-04-07,2026-04-07 09:35:18,1200,Inventory,Inventory purchase,258.18,0,k.nguyen,,Automated
+JE-100006,2,2026-04-07,2026-04-07 09:35:18,2000,Accounts Payable,Inventory purchase,0,258.18,k.nguyen,,Automated
+JE-100007,1,2026-06-30,2026-06-30 09:02:42,6000,Payroll Expense,Payroll run,8040.11,0,a.khan,,Automated
+JE-100007,2,2026-06-30,2026-06-30 09:02:42,1000,Cash,Payroll run,0,8040.11,a.khan,,Automated
+JE-100008,1,2026-01-26,2026-01-26 14:17:29,6100,Rent Expense,Monthly office rent,66458.19,0,d.wilson,fin.manager,Automated
+JE-100008,2,2026-01-26,2026-01-26 14:17:29,1000,Cash,Monthly office rent,0,66458.19,d.wilson,fin.manager,Automated
+JE-100009,1,2026-02-23,2026-02-23 12:44:59,6200,Utilities,Electricity and water,1665.7,0,d.wilson,,Automated
+JE-100009,2,2026-02-23,2026-02-23 12:44:59,2000,Accounts Payable,Electricity and water,0,1665.7,d.wilson,,Automated
+JE-100010,1,2026-03-04,2026-03-04 10:29:24,1500,Fixed Assets,Equipment purchase,12457.43,0,m.lopez,cfo,Automated
+JE-100010,2,2026-03-04,2026-03-04 10:29:24,1000,Cash,Equipment purchase,0,12457.43,m.lopez,cfo,Automated
+JE-100011,1,2026-03-25,2026-03-25 08:14:52,1200,Inventory,Inventory purchase,530.55,0,j.smith,,Automated
+JE-100011,2,2026-03-25,2026-03-25 08:14:52,2000,Accounts Payable,Inventory purchase,0,530.55,j.smith,,Automated
+JE-100012,1,2026-02-24,2026-02-24 17:56:45,6300,Travel and Entertainment,Employee travel reimbursement,764.79,0,m.lopez,fin.manager,Automated
+JE-100012,2,2026-02-24,2026-02-24 17:56:45,2000,Accounts Payable,Employee travel reimbursement,0,764.79,m.lopez,fin.manager,Automated
+JE-100013,1,2026-04-28,2026-04-28 10:16:08,6300,Travel and Entertainment,Employee travel reimbursement,83071.95,0,a.khan,cfo,Automated
+JE-100013,2,2026-04-28,2026-04-28 10:16:08,2000,Accounts Payable,Employee travel reimbursement,0,83071.95,a.khan,cfo,Automated
+JE-100014,1,2026-04-20,2026-04-20 17:25:23,1200,Inventory,Inventory purchase,6006.55,0,a.khan,,Automated
+JE-100014,2,2026-04-20,2026-04-20 17:25:23,2000,Accounts Payable,Inventory purchase,0,6006.55,a.khan,,Automated
+JE-100015,1,2026-01-13,2026-01-13 09:09:40,6200,Utilities,Electricity and water,4802.16,0,a.khan,,Automated
+JE-100015,2,2026-01-13,2026-01-13 09:09:40,2000,Accounts Payable,Electricity and water,0,4802.16,a.khan,,Automated
+JE-100016,1,2026-04-09,2026-04-09 14:38:29,6300,Travel and Entertainment,Employee travel reimbursement,9292.87,0,s.patel,cfo,Automated
+JE-100016,2,2026-04-09,2026-04-09 14:38:29,2000,Accounts Payable,Employee travel reimbursement,0,9292.87,s.patel,cfo,Automated
+JE-100017,1,2026-01-30,2026-01-30 16:48:17,6400,Professional Fees,Consulting services invoice,17576.62,0,k.nguyen,cfo,Automated
+JE-100017,2,2026-01-30,2026-01-30 16:48:17,2000,Accounts Payable,Consulting services invoice,0,17576.62,k.nguyen,cfo,Automated
+JE-100018,1,2026-04-22,2026-04-22 10:29:00,6000,Payroll Expense,Payroll run,233.41,0,d.wilson,,Automated
+JE-100018,2,2026-04-22,2026-04-22 10:29:00,1000,Cash,Payroll run,0,233.41,d.wilson,,Automated
+JE-100019,1,2026-01-28,2026-01-28 12:53:40,1100,Accounts Receivable,Customer sales invoice,161150.15,0,s.patel,cfo,Automated
+JE-100019,2,2026-01-28,2026-01-28 12:53:40,4000,Revenue,Customer sales invoice,0,161150.15,s.patel,cfo,Automated
+JE-100020,1,2026-02-11,2026-02-11 16:49:59,5000,Cost of Goods Sold,Cost of goods sold,319.43,0,s.patel,,Automated
+JE-100020,2,2026-02-11,2026-02-11 16:49:59,1200,Inventory,Cost of goods sold,0,319.43,s.patel,,Automated
+JE-100021,1,2026-01-05,2026-01-05 09:59:23,1500,Fixed Assets,Equipment purchase,1174.13,0,k.nguyen,,Automated
+JE-100021,2,2026-01-05,2026-01-05 09:59:23,1000,Cash,Equipment purchase,0,1174.13,k.nguyen,,Automated
+JE-100022,1,2026-05-26,2026-05-26 09:05:46,5000,Cost of Goods Sold,Cost of goods sold,155.29,0,r.chen,,Automated
+JE-100022,2,2026-05-26,2026-05-26 09:05:46,1200,Inventory,Cost of goods sold,0,155.29,r.chen,,Automated
+JE-100023,1,2026-02-02,2026-02-02 15:35:10,1200,Inventory,Inventory purchase,33670.81,0,m.lopez,cfo,Automated
+JE-100023,2,2026-02-02,2026-02-02 15:35:10,2000,Accounts Payable,Inventory purchase,0,33670.81,m.lopez,cfo,Automated
+JE-100024,1,2026-02-24,2026-02-24 16:48:46,1500,Fixed Assets,Equipment purchase,2490.89,0,d.wilson,fin.manager,Automated
+JE-100024,2,2026-02-24,2026-02-24 16:48:46,1000,Cash,Equipment purchase,0,2490.89,d.wilson,fin.manager,Automated
+JE-100025,1,2026-06-16,2026-06-16 13:28:57,6300,Travel and Entertainment,Employee travel reimbursement,192306.02,0,s.patel,fin.manager,Automated
+JE-100025,2,2026-06-16,2026-06-16 13:28:57,2000,Accounts Payable,Employee travel reimbursement,0,192306.02,s.patel,fin.manager,Automated
+JE-100026,1,2026-01-06,2026-01-06 17:35:14,6100,Rent Expense,Monthly office rent,657.79,0,s.patel,controller,Automated
+JE-100026,2,2026-01-06,2026-01-06 17:35:14,1000,Cash,Monthly office rent,0,657.79,s.patel,controller,Automated
+JE-100027,1,2026-01-09,2026-01-09 13:04:32,6400,Professional Fees,Consulting services invoice,569.52,0,a.khan,fin.manager,Automated
+JE-100027,2,2026-01-09,2026-01-09 13:04:32,2000,Accounts Payable,Consulting services invoice,0,569.52,a.khan,fin.manager,Automated
+JE-100028,1,2026-05-27,2026-05-27 17:30:15,5000,Cost of Goods Sold,Cost of goods sold,6018.27,0,k.nguyen,fin.manager,Automated
+JE-100028,2,2026-05-27,2026-05-27 17:30:15,1200,Inventory,Cost of goods sold,0,6018.27,k.nguyen,fin.manager,Automated
+JE-100029,1,2026-06-18,2026-06-18 14:22:27,5000,Cost of Goods Sold,Cost of goods sold,204.77,0,r.chen,cfo,Automated
+JE-100029,2,2026-06-18,2026-06-18 14:22:27,1200,Inventory,Cost of goods sold,0,204.77,r.chen,cfo,Automated
+JE-100030,1,2026-06-15,2026-06-15 09:03:25,6400,Professional Fees,Consulting services invoice,16676.43,0,d.wilson,fin.manager,Automated
+JE-100030,2,2026-06-15,2026-06-15 09:03:25,2000,Accounts Payable,Consulting services invoice,0,16676.43,d.wilson,fin.manager,Automated
+JE-100031,1,2026-02-18,2026-02-18 16:28:08,6100,Rent Expense,Monthly office rent,661.55,0,r.chen,fin.manager,Automated
+JE-100031,2,2026-02-18,2026-02-18 16:28:08,1000,Cash,Monthly office rent,0,661.55,r.chen,fin.manager,Automated
+JE-100032,1,2026-01-20,2026-01-20 15:51:55,5000,Cost of Goods Sold,Cost of goods sold,76878.28,0,k.nguyen,cfo,Automated
+JE-100032,2,2026-01-20,2026-01-20 15:51:55,1200,Inventory,Cost of goods sold,0,76878.28,k.nguyen,cfo,Automated
+JE-100033,1,2026-05-19,2026-05-19 08:05:59,6100,Rent Expense,Monthly office rent,146.87,0,k.nguyen,,Automated
+JE-100033,2,2026-05-19,2026-05-19 08:05:59,1000,Cash,Monthly office rent,0,146.87,k.nguyen,,Automated
+JE-100034,1,2026-05-04,2026-05-04 11:55:25,6200,Utilities,Electricity and water,2193.65,0,j.smith,controller,Automated
+JE-100034,2,2026-05-04,2026-05-04 11:55:25,2000,Accounts Payable,Electricity and water,0,2193.65,j.smith,controller,Automated
+JE-100035,1,2026-04-27,2026-04-27 12:27:44,6300,Travel and Entertainment,Employee travel reimbursement,750.19,0,d.wilson,,Automated
+JE-100035,2,2026-04-27,2026-04-27 12:27:44,2000,Accounts Payable,Employee travel reimbursement,0,750.19,d.wilson,,Automated
+JE-100036,1,2026-05-05,2026-05-05 10:12:18,1200,Inventory,Inventory purchase,15281.83,0,a.khan,controller,Automated
+JE-100036,2,2026-05-05,2026-05-05 10:12:18,2000,Accounts Payable,Inventory purchase,0,15281.83,a.khan,controller,Automated
+JE-100037,1,2026-01-16,2026-01-16 13:03:03,1500,Fixed Assets,Equipment purchase,26787.53,0,s.patel,fin.manager,Automated
+JE-100037,2,2026-01-16,2026-01-16 13:03:03,1000,Cash,Equipment purchase,0,26787.53,s.patel,fin.manager,Automated
+JE-100038,1,2026-02-10,2026-02-10 08:32:05,1200,Inventory,Inventory purchase,108137.8,0,k.nguyen,controller,Automated
+JE-100038,2,2026-02-10,2026-02-10 08:32:05,2000,Accounts Payable,Inventory purchase,0,108137.8,k.nguyen,controller,Automated
+JE-100039,1,2026-06-22,2026-06-22 11:25:07,6100,Rent Expense,Monthly office rent,9196.36,0,s.patel,cfo,Automated
+JE-100039,2,2026-06-22,2026-06-22 11:25:07,1000,Cash,Monthly office rent,0,9196.36,s.patel,cfo,Automated
+JE-100040,1,2026-06-18,2026-06-18 17:36:33,6400,Professional Fees,Consulting services invoice,11065.19,0,m.lopez,fin.manager,Automated
+JE-100040,2,2026-06-18,2026-06-18 17:36:33,2000,Accounts Payable,Consulting services invoice,0,11065.19,m.lopez,fin.manager,Automated
+JE-100041,1,2026-03-03,2026-03-03 12:25:08,5000,Cost of Goods Sold,Cost of goods sold,16221.68,0,d.wilson,cfo,Automated
+JE-100041,2,2026-03-03,2026-03-03 12:25:08,1200,Inventory,Cost of goods sold,0,16221.68,d.wilson,cfo,Automated
+JE-100042,1,2026-01-19,2026-01-19 08:29:39,1100,Accounts Receivable,Customer sales invoice,3227.31,0,s.patel,,Automated
+JE-100042,2,2026-01-19,2026-01-19 08:29:39,4000,Revenue,Customer sales invoice,0,3227.31,s.patel,,Automated
+JE-100043,1,2026-03-09,2026-03-09 10:59:22,6100,Rent Expense,Monthly office rent,5945.57,0,j.smith,,Automated
+JE-100043,2,2026-03-09,2026-03-09 10:59:22,1000,Cash,Monthly office rent,0,5945.57,j.smith,,Automated
+JE-100044,1,2026-04-23,2026-04-23 16:45:19,6000,Payroll Expense,Payroll run,871.88,0,s.patel,,Automated
+JE-100044,2,2026-04-23,2026-04-23 16:45:19,1000,Cash,Payroll run,0,871.88,s.patel,,Automated
+JE-100045,1,2026-05-22,2026-05-22 12:59:42,1200,Inventory,Inventory purchase,106.12,0,j.smith,,Automated
+JE-100045,2,2026-05-22,2026-05-22 12:59:42,2000,Accounts Payable,Inventory purchase,0,106.12,j.smith,,Automated
+JE-100046,1,2026-01-28,2026-01-28 16:09:17,6200,Utilities,Electricity and water,746.0,0,m.lopez,,Automated
+JE-100046,2,2026-01-28,2026-01-28 16:09:17,2000,Accounts Payable,Electricity and water,0,746.0,m.lopez,,Automated
+JE-100047,1,2026-06-12,2026-06-12 12:32:31,6000,Payroll Expense,Payroll run,469.75,0,m.lopez,,Automated
+JE-100047,2,2026-06-12,2026-06-12 12:32:31,1000,Cash,Payroll run,0,469.75,m.lopez,,Automated
+JE-100048,1,2026-03-12,2026-03-12 08:00:21,6400,Professional Fees,Consulting services invoice,201.64,0,k.nguyen,fin.manager,Automated
+JE-100048,2,2026-03-12,2026-03-12 08:00:21,2000,Accounts Payable,Consulting services invoice,0,201.64,k.nguyen,fin.manager,Automated
+JE-100049,1,2026-05-22,2026-05-22 14:35:00,6200,Utilities,Electricity and water,27929.43,0,j.smith,controller,Automated
+JE-100049,2,2026-05-22,2026-05-22 14:35:00,2000,Accounts Payable,Electricity and water,0,27929.43,j.smith,controller,Automated
+JE-100050,1,2026-05-22,2026-05-22 10:27:08,6200,Utilities,Electricity and water,6316.08,0,j.smith,controller,Automated
+JE-100050,2,2026-05-22,2026-05-22 10:27:08,2000,Accounts Payable,Electricity and water,0,6316.08,j.smith,controller,Automated
+JE-100051,1,2026-03-05,2026-03-05 09:22:49,6000,Payroll Expense,Payroll run,493.46,0,s.patel,,Automated
+JE-100051,2,2026-03-05,2026-03-05 09:22:49,1000,Cash,Payroll run,0,493.46,s.patel,,Automated
+JE-100052,1,2026-02-09,2026-02-09 11:55:10,6300,Travel and Entertainment,Employee travel reimbursement,163554.38,0,k.nguyen,controller,Automated
+JE-100052,2,2026-02-09,2026-02-09 11:55:10,2000,Accounts Payable,Employee travel reimbursement,0,163554.38,k.nguyen,controller,Automated
+JE-100053,1,2026-03-27,2026-03-27 14:51:42,6300,Travel and Entertainment,Employee travel reimbursement,120.72,0,k.nguyen,,Automated
+JE-100053,2,2026-03-27,2026-03-27 14:51:42,2000,Accounts Payable,Employee travel reimbursement,0,120.72,k.nguyen,,Automated
+JE-100054,1,2026-06-29,2026-06-29 09:24:55,5000,Cost of Goods Sold,Cost of goods sold,759.38,0,j.smith,,Automated
+JE-100054,2,2026-06-29,2026-06-29 09:24:55,1200,Inventory,Cost of goods sold,0,759.38,j.smith,,Automated
+JE-100055,1,2026-04-28,2026-04-28 13:19:52,5000,Cost of Goods Sold,Cost of goods sold,455.61,0,k.nguyen,,Automated
+JE-100055,2,2026-04-28,2026-04-28 13:19:52,1200,Inventory,Cost of goods sold,0,455.61,k.nguyen,,Automated
+JE-100056,1,2026-02-19,2026-02-19 14:21:17,5000,Cost of Goods Sold,Cost of goods sold,119.7,0,k.nguyen,fin.manager,Automated
+JE-100056,2,2026-02-19,2026-02-19 14:21:17,1200,Inventory,Cost of goods sold,0,119.7,k.nguyen,fin.manager,Automated
+JE-100057,1,2026-04-13,2026-04-13 16:21:01,6000,Payroll Expense,Payroll run,13088.5,0,j.smith,fin.manager,Automated
+JE-100057,2,2026-04-13,2026-04-13 16:21:01,1000,Cash,Payroll run,0,13088.5,j.smith,fin.manager,Automated
+JE-100058,1,2026-03-09,2026-03-09 08:06:38,6200,Utilities,Electricity and water,8240.36,0,r.chen,fin.manager,Automated
+JE-100058,2,2026-03-09,2026-03-09 08:06:38,2000,Accounts Payable,Electricity and water,0,8240.36,r.chen,fin.manager,Automated
+JE-100059,1,2026-05-11,2026-05-11 09:24:57,6300,Travel and Entertainment,Employee travel reimbursement,10011.27,0,s.patel,controller,Automated
+JE-100059,2,2026-05-11,2026-05-11 09:24:57,2000,Accounts Payable,Employee travel reimbursement,0,10011.27,s.patel,controller,Automated
+JE-100060,1,2026-04-22,2026-04-22 08:33:59,1100,Accounts Receivable,Customer sales invoice,140.11,0,k.nguyen,cfo,Automated
+JE-100060,2,2026-04-22,2026-04-22 08:33:59,4000,Revenue,Customer sales invoice,0,140.11,k.nguyen,cfo,Automated
+JE-100061,1,2026-03-26,2026-03-26 17:20:42,5000,Cost of Goods Sold,Cost of goods sold,1591.96,0,k.nguyen,fin.manager,Automated
+JE-100061,2,2026-03-26,2026-03-26 17:20:42,1200,Inventory,Cost of goods sold,0,1591.96,k.nguyen,fin.manager,Automated
+JE-100062,1,2026-04-15,2026-04-15 13:25:44,1200,Inventory,Inventory purchase,1048.67,0,m.lopez,controller,Automated
+JE-100062,2,2026-04-15,2026-04-15 13:25:44,2000,Accounts Payable,Inventory purchase,0,1048.67,m.lopez,controller,Automated
+JE-100063,1,2026-04-08,2026-04-08 10:39:36,6300,Travel and Entertainment,Employee travel reimbursement,15641.09,0,m.lopez,fin.manager,Automated
+JE-100063,2,2026-04-08,2026-04-08 10:39:36,2000,Accounts Payable,Employee travel reimbursement,0,15641.09,m.lopez,fin.manager,Automated
+JE-100064,1,2026-03-19,2026-03-19 12:13:27,1200,Inventory,Inventory purchase,56401.81,0,k.nguyen,cfo,Automated
+JE-100064,2,2026-03-19,2026-03-19 12:13:27,2000,Accounts Payable,Inventory purchase,0,56401.81,k.nguyen,cfo,Automated
+JE-100065,1,2026-04-30,2026-04-30 15:28:43,1500,Fixed Assets,Equipment purchase,14472.0,0,a.khan,cfo,Automated
+JE-100065,2,2026-04-30,2026-04-30 15:28:43,1000,Cash,Equipment purchase,0,14472.0,a.khan,cfo,Automated
+JE-100066,1,2026-02-13,2026-02-13 09:18:32,6500,Marketing,Advertising campaign,41622.37,0,d.wilson,cfo,Automated
+JE-100066,2,2026-02-13,2026-02-13 09:18:32,2000,Accounts Payable,Advertising campaign,0,41622.37,d.wilson,cfo,Automated
+JE-100067,1,2026-03-02,2026-03-02 12:14:51,1500,Fixed Assets,Equipment purchase,1276.8,0,a.khan,controller,Automated
+JE-100067,2,2026-03-02,2026-03-02 12:14:51,1000,Cash,Equipment purchase,0,1276.8,a.khan,controller,Automated
+JE-100068,1,2026-01-19,2026-01-19 15:26:56,5000,Cost of Goods Sold,Cost of goods sold,176599.26,0,d.wilson,cfo,Automated
+JE-100068,2,2026-01-19,2026-01-19 15:26:56,1200,Inventory,Cost of goods sold,0,176599.26,d.wilson,cfo,Automated
+JE-100069,1,2026-04-09,2026-04-09 15:25:15,5000,Cost of Goods Sold,Cost of goods sold,23471.54,0,a.khan,cfo,Automated
+JE-100069,2,2026-04-09,2026-04-09 15:25:15,1200,Inventory,Cost of goods sold,0,23471.54,a.khan,cfo,Automated
+JE-100070,1,2026-01-28,2026-01-28 14:14:11,6400,Professional Fees,Consulting services invoice,88262.74,0,k.nguyen,cfo,Automated
+JE-100070,2,2026-01-28,2026-01-28 14:14:11,2000,Accounts Payable,Consulting services invoice,0,88262.74,k.nguyen,cfo,Automated
+JE-100071,1,2026-03-05,2026-03-05 09:29:08,1200,Inventory,Inventory purchase,3412.04,0,k.nguyen,cfo,Automated
+JE-100071,2,2026-03-05,2026-03-05 09:29:08,2000,Accounts Payable,Inventory purchase,0,3412.04,k.nguyen,cfo,Automated
+JE-100072,1,2026-04-24,2026-04-24 17:52:46,1200,Inventory,Inventory purchase,9225.56,0,s.patel,cfo,Automated
+JE-100072,2,2026-04-24,2026-04-24 17:52:46,2000,Accounts Payable,Inventory purchase,0,9225.56,s.patel,cfo,Automated
+JE-100073,1,2026-03-05,2026-03-05 12:49:49,6500,Marketing,Advertising campaign,91366.45,0,s.patel,fin.manager,Automated
+JE-100073,2,2026-03-05,2026-03-05 12:49:49,2000,Accounts Payable,Advertising campaign,0,91366.45,s.patel,fin.manager,Automated
+JE-100074,1,2026-01-20,2026-01-20 12:15:17,5000,Cost of Goods Sold,Cost of goods sold,805.7,0,m.lopez,cfo,Automated
+JE-100074,2,2026-01-20,2026-01-20 12:15:17,1200,Inventory,Cost of goods sold,0,805.7,m.lopez,cfo,Automated
+JE-100075,1,2026-04-09,2026-04-09 10:45:13,6100,Rent Expense,Monthly office rent,286.18,0,j.smith,fin.manager,Automated
+JE-100075,2,2026-04-09,2026-04-09 10:45:13,1000,Cash,Monthly office rent,0,286.18,j.smith,fin.manager,Automated
+JE-100076,1,2026-01-16,2026-01-16 11:53:26,1200,Inventory,Inventory purchase,3447.86,0,r.chen,,Automated
+JE-100076,2,2026-01-16,2026-01-16 11:53:26,2000,Accounts Payable,Inventory purchase,0,3447.86,r.chen,,Automated
+JE-100077,1,2026-01-06,2026-01-06 17:24:30,1500,Fixed Assets,Equipment purchase,132435.59,0,j.smith,fin.manager,Automated
+JE-100077,2,2026-01-06,2026-01-06 17:24:30,1000,Cash,Equipment purchase,0,132435.59,j.smith,fin.manager,Automated
+JE-100078,1,2026-05-18,2026-05-18 16:51:38,1100,Accounts Receivable,Customer sales invoice,30652.64,0,a.khan,fin.manager,Automated
+JE-100078,2,2026-05-18,2026-05-18 16:51:38,4000,Revenue,Customer sales invoice,0,30652.64,a.khan,fin.manager,Automated
+JE-100079,1,2026-05-05,2026-05-05 08:24:21,5000,Cost of Goods Sold,Cost of goods sold,795.58,0,d.wilson,,Automated
+JE-100079,2,2026-05-05,2026-05-05 08:24:21,1200,Inventory,Cost of goods sold,0,795.58,d.wilson,,Automated
+JE-100080,1,2026-04-30,2026-04-30 10:39:34,6300,Travel and Entertainment,Employee travel reimbursement,24535.71,0,j.smith,fin.manager,Automated
+JE-100080,2,2026-04-30,2026-04-30 10:39:34,2000,Accounts Payable,Employee travel reimbursement,0,24535.71,j.smith,fin.manager,Automated
+JE-100081,1,2026-01-07,2026-01-07 09:41:27,1500,Fixed Assets,Equipment purchase,7286.07,0,a.khan,,Automated
+JE-100081,2,2026-01-07,2026-01-07 09:41:27,1000,Cash,Equipment purchase,0,7286.07,a.khan,,Automated
+JE-100082,1,2026-04-08,2026-04-08 13:13:29,6200,Utilities,Electricity and water,146.53,0,m.lopez,fin.manager,Automated
+JE-100082,2,2026-04-08,2026-04-08 13:13:29,2000,Accounts Payable,Electricity and water,0,146.53,m.lopez,fin.manager,Automated
+JE-100083,1,2026-03-06,2026-03-06 09:30:01,1100,Accounts Receivable,Customer sales invoice,30313.24,0,d.wilson,cfo,Automated
+JE-100083,2,2026-03-06,2026-03-06 09:30:01,4000,Revenue,Customer sales invoice,0,30313.24,d.wilson,cfo,Automated
+JE-100084,1,2026-03-31,2026-03-31 11:41:04,6400,Professional Fees,Consulting services invoice,199386.54,0,k.nguyen,cfo,Automated
+JE-100084,2,2026-03-31,2026-03-31 11:41:04,2000,Accounts Payable,Consulting services invoice,0,199386.54,k.nguyen,cfo,Automated
+JE-100085,1,2026-03-05,2026-03-05 11:53:01,6400,Professional Fees,Consulting services invoice,30829.72,0,s.patel,controller,Automated
+JE-100085,2,2026-03-05,2026-03-05 11:53:01,2000,Accounts Payable,Consulting services invoice,0,30829.72,s.patel,controller,Automated
+JE-100086,1,2026-01-30,2026-01-30 17:13:29,5000,Cost of Goods Sold,Cost of goods sold,260.93,0,d.wilson,fin.manager,Automated
+JE-100086,2,2026-01-30,2026-01-30 17:13:29,1200,Inventory,Cost of goods sold,0,260.93,d.wilson,fin.manager,Automated
+JE-100087,1,2026-01-30,2026-01-30 10:19:06,6200,Utilities,Electricity and water,9987.25,0,s.patel,fin.manager,Automated
+JE-100087,2,2026-01-30,2026-01-30 10:19:06,2000,Accounts Payable,Electricity and water,0,9987.25,s.patel,fin.manager,Automated
+JE-100088,1,2026-04-07,2026-04-07 14:45:12,1500,Fixed Assets,Equipment purchase,17188.82,0,j.smith,cfo,Automated
+JE-100088,2,2026-04-07,2026-04-07 14:45:12,1000,Cash,Equipment purchase,0,17188.82,j.smith,cfo,Automated
+JE-100089,1,2026-03-19,2026-03-19 17:51:07,5000,Cost of Goods Sold,Cost of goods sold,216.91,0,k.nguyen,,Automated
+JE-100089,2,2026-03-19,2026-03-19 17:51:07,1200,Inventory,Cost of goods sold,0,216.91,k.nguyen,,Automated
+JE-100090,1,2026-04-20,2026-04-20 13:04:32,6400,Professional Fees,Consulting services invoice,1398.85,0,d.wilson,fin.manager,Automated
+JE-100090,2,2026-04-20,2026-04-20 13:04:32,2000,Accounts Payable,Consulting services invoice,0,1398.85,d.wilson,fin.manager,Automated
+JE-100091,1,2026-04-03,2026-04-03 15:45:09,6500,Marketing,Advertising campaign,222.99,0,r.chen,cfo,Automated
+JE-100091,2,2026-04-03,2026-04-03 15:45:09,2000,Accounts Payable,Advertising campaign,0,222.99,r.chen,cfo,Automated
+JE-100092,1,2026-05-18,2026-05-18 15:29:27,1100,Accounts Receivable,Customer sales invoice,10777.32,0,k.nguyen,cfo,Automated
+JE-100092,2,2026-05-18,2026-05-18 15:29:27,4000,Revenue,Customer sales invoice,0,10777.32,k.nguyen,cfo,Automated
+JE-100093,1,2026-03-04,2026-03-04 09:17:56,1500,Fixed Assets,Equipment purchase,768.61,0,r.chen,fin.manager,Automated
+JE-100093,2,2026-03-04,2026-03-04 09:17:56,1000,Cash,Equipment purchase,0,768.61,r.chen,fin.manager,Automated
+JE-100094,1,2026-04-08,2026-04-08 13:01:31,1500,Fixed Assets,Equipment purchase,10329.86,0,k.nguyen,fin.manager,Automated
+JE-100094,2,2026-04-08,2026-04-08 13:01:31,1000,Cash,Equipment purchase,0,10329.86,k.nguyen,fin.manager,Automated
+JE-100095,1,2026-04-01,2026-04-01 12:21:17,6200,Utilities,Electricity and water,4063.64,0,s.patel,,Automated
+JE-100095,2,2026-04-01,2026-04-01 12:21:17,2000,Accounts Payable,Electricity and water,0,4063.64,s.patel,,Automated
+JE-100096,1,2026-05-13,2026-05-13 11:05:15,1100,Accounts Receivable,Customer sales invoice,6825.12,0,d.wilson,cfo,Automated
+JE-100096,2,2026-05-13,2026-05-13 11:05:15,4000,Revenue,Customer sales invoice,0,6825.12,d.wilson,cfo,Automated
+JE-100097,1,2026-06-15,2026-06-15 15:28:50,5000,Cost of Goods Sold,Cost of goods sold,19011.26,0,j.smith,controller,Automated
+JE-100097,2,2026-06-15,2026-06-15 15:28:50,1200,Inventory,Cost of goods sold,0,19011.26,j.smith,controller,Automated
+JE-100098,1,2026-03-04,2026-03-04 12:42:37,1100,Accounts Receivable,Customer sales invoice,538.6,0,m.lopez,cfo,Automated
+JE-100098,2,2026-03-04,2026-03-04 12:42:37,4000,Revenue,Customer sales invoice,0,538.6,m.lopez,cfo,Automated
+JE-100099,1,2026-05-21,2026-05-21 13:22:44,6000,Payroll Expense,Payroll run,2536.08,0,r.chen,fin.manager,Automated
+JE-100099,2,2026-05-21,2026-05-21 13:22:44,1000,Cash,Payroll run,0,2536.08,r.chen,fin.manager,Automated
+JE-100100,1,2026-02-19,2026-02-19 13:07:47,5000,Cost of Goods Sold,Cost of goods sold,250.13,0,s.patel,,Automated
+JE-100100,2,2026-02-19,2026-02-19 13:07:47,1200,Inventory,Cost of goods sold,0,250.13,s.patel,,Automated
+JE-100101,1,2026-05-04,2026-05-04 12:46:37,6200,Utilities,Electricity and water,428.63,0,k.nguyen,fin.manager,Automated
+JE-100101,2,2026-05-04,2026-05-04 12:46:37,2000,Accounts Payable,Electricity and water,0,428.63,k.nguyen,fin.manager,Automated
+JE-100102,1,2026-03-17,2026-03-17 11:23:11,6100,Rent Expense,Monthly office rent,55933.71,0,m.lopez,controller,Automated
+JE-100102,2,2026-03-17,2026-03-17 11:23:11,1000,Cash,Monthly office rent,0,55933.71,m.lopez,controller,Automated
+JE-100103,1,2026-01-12,2026-01-12 08:35:18,1200,Inventory,Inventory purchase,261.65,0,d.wilson,,Automated
+JE-100103,2,2026-01-12,2026-01-12 08:35:18,2000,Accounts Payable,Inventory purchase,0,261.65,d.wilson,,Automated
+JE-100104,1,2026-05-27,2026-05-27 12:30:30,6500,Marketing,Advertising campaign,218.04,0,r.chen,controller,Automated
+JE-100104,2,2026-05-27,2026-05-27 12:30:30,2000,Accounts Payable,Advertising campaign,0,218.04,r.chen,controller,Automated
+JE-100105,1,2026-01-30,2026-01-30 09:25:31,1100,Accounts Receivable,Customer sales invoice,127499.91,0,j.smith,cfo,Automated
+JE-100105,2,2026-01-30,2026-01-30 09:25:31,4000,Revenue,Customer sales invoice,0,127499.91,j.smith,cfo,Automated
+JE-100106,1,2026-05-25,2026-05-25 12:05:15,6400,Professional Fees,Consulting services invoice,316.74,0,j.smith,fin.manager,Automated
+JE-100106,2,2026-05-25,2026-05-25 12:05:15,2000,Accounts Payable,Consulting services invoice,0,316.74,j.smith,fin.manager,Automated
+JE-100107,1,2026-06-08,2026-06-08 11:49:33,1500,Fixed Assets,Equipment purchase,9272.96,0,r.chen,fin.manager,Automated
+JE-100107,2,2026-06-08,2026-06-08 11:49:33,1000,Cash,Equipment purchase,0,9272.96,r.chen,fin.manager,Automated
+JE-100108,1,2026-04-20,2026-04-20 12:36:39,1100,Accounts Receivable,Customer sales invoice,68952.5,0,j.smith,cfo,Automated
+JE-100108,2,2026-04-20,2026-04-20 12:36:39,4000,Revenue,Customer sales invoice,0,68952.5,j.smith,cfo,Automated
+JE-100109,1,2026-02-23,2026-02-23 11:16:42,6100,Rent Expense,Monthly office rent,133982.37,0,j.smith,controller,Automated
+JE-100109,2,2026-02-23,2026-02-23 11:16:42,1000,Cash,Monthly office rent,0,133982.37,j.smith,controller,Automated
+JE-100110,1,2026-01-20,2026-01-20 10:00:26,5000,Cost of Goods Sold,Cost of goods sold,374.61,0,r.chen,,Automated
+JE-100110,2,2026-01-20,2026-01-20 10:00:26,1200,Inventory,Cost of goods sold,0,374.61,r.chen,,Automated
+JE-100111,1,2026-06-30,2026-06-30 12:44:55,6500,Marketing,Advertising campaign,914.44,0,r.chen,controller,Automated
+JE-100111,2,2026-06-30,2026-06-30 12:44:55,2000,Accounts Payable,Advertising campaign,0,914.44,r.chen,controller,Automated
+JE-100112,1,2026-06-10,2026-06-10 17:42:51,1100,Accounts Receivable,Customer sales invoice,39795.36,0,a.khan,fin.manager,Automated
+JE-100112,2,2026-06-10,2026-06-10 17:42:51,4000,Revenue,Customer sales invoice,0,39795.36,a.khan,fin.manager,Automated
+JE-100113,1,2026-06-15,2026-06-15 10:58:17,6100,Rent Expense,Monthly office rent,6266.94,0,k.nguyen,controller,Automated
+JE-100113,2,2026-06-15,2026-06-15 10:58:17,1000,Cash,Monthly office rent,0,6266.94,k.nguyen,controller,Automated
+JE-100114,1,2026-06-02,2026-06-02 17:58:18,6200,Utilities,Electricity and water,41273.78,0,r.chen,controller,Automated
+JE-100114,2,2026-06-02,2026-06-02 17:58:18,2000,Accounts Payable,Electricity and water,0,41273.78,r.chen,controller,Automated
+JE-100115,1,2026-06-29,2026-06-29 14:17:32,6500,Marketing,Advertising campaign,18734.3,0,s.patel,fin.manager,Automated
+JE-100115,2,2026-06-29,2026-06-29 14:17:32,2000,Accounts Payable,Advertising campaign,0,18734.3,s.patel,fin.manager,Automated
+JE-100116,1,2026-04-21,2026-04-21 13:38:16,6500,Marketing,Advertising campaign,184.27,0,j.smith,cfo,Automated
+JE-100116,2,2026-04-21,2026-04-21 13:38:16,2000,Accounts Payable,Advertising campaign,0,184.27,j.smith,cfo,Automated
+JE-100117,1,2026-01-06,2026-01-06 12:36:02,1500,Fixed Assets,Equipment purchase,8659.76,0,k.nguyen,,Automated
+JE-100117,2,2026-01-06,2026-01-06 12:36:02,1000,Cash,Equipment purchase,0,8659.76,k.nguyen,,Automated
+JE-100118,1,2026-04-24,2026-04-24 12:11:37,6500,Marketing,Advertising campaign,5159.18,0,r.chen,,Automated
+JE-100118,2,2026-04-24,2026-04-24 12:11:37,2000,Accounts Payable,Advertising campaign,0,5159.18,r.chen,,Automated
+JE-100119,1,2026-05-01,2026-05-01 13:26:21,6500,Marketing,Advertising campaign,157718.37,0,m.lopez,cfo,Automated
+JE-100119,2,2026-05-01,2026-05-01 13:26:21,2000,Accounts Payable,Advertising campaign,0,157718.37,m.lopez,cfo,Automated
+JE-100120,1,2026-03-26,2026-03-26 14:44:31,6100,Rent Expense,Monthly office rent,67689.17,0,m.lopez,cfo,Automated
+JE-100120,2,2026-03-26,2026-03-26 14:44:31,1000,Cash,Monthly office rent,0,67689.17,m.lopez,cfo,Automated
+JE-100121,1,2026-05-21,2026-05-21 08:29:05,6300,Travel and Entertainment,Employee travel reimbursement,48391.37,0,m.lopez,fin.manager,Automated
+JE-100121,2,2026-05-21,2026-05-21 08:29:05,2000,Accounts Payable,Employee travel reimbursement,0,48391.37,m.lopez,fin.manager,Automated
+JE-100122,1,2026-04-14,2026-04-14 16:52:00,6000,Payroll Expense,Payroll run,241.29,0,d.wilson,,Automated
+JE-100122,2,2026-04-14,2026-04-14 16:52:00,1000,Cash,Payroll run,0,241.29,d.wilson,,Automated
+JE-100123,1,2026-02-18,2026-02-18 16:23:39,6500,Marketing,Advertising campaign,2310.56,0,k.nguyen,fin.manager,Automated
+JE-100123,2,2026-02-18,2026-02-18 16:23:39,2000,Accounts Payable,Advertising campaign,0,2310.56,k.nguyen,fin.manager,Automated
+JE-100124,1,2026-05-21,2026-05-21 10:59:18,6400,Professional Fees,Consulting services invoice,469.62,0,r.chen,,Automated
+JE-100124,2,2026-05-21,2026-05-21 10:59:18,2000,Accounts Payable,Consulting services invoice,0,469.62,r.chen,,Automated
+JE-100125,1,2026-06-11,2026-06-11 17:51:15,6500,Marketing,Advertising campaign,251.6,0,d.wilson,cfo,Automated
+JE-100125,2,2026-06-11,2026-06-11 17:51:15,2000,Accounts Payable,Advertising campaign,0,251.6,d.wilson,cfo,Automated
+JE-100126,1,2026-02-27,2026-02-27 09:29:07,6400,Professional Fees,Consulting services invoice,6644.0,0,d.wilson,,Automated
+JE-100126,2,2026-02-27,2026-02-27 09:29:07,2000,Accounts Payable,Consulting services invoice,0,6644.0,d.wilson,,Automated
+JE-100127,1,2026-03-16,2026-03-16 16:45:17,6500,Marketing,Advertising campaign,119606.59,0,r.chen,fin.manager,Automated
+JE-100127,2,2026-03-16,2026-03-16 16:45:17,2000,Accounts Payable,Advertising campaign,0,119606.59,r.chen,fin.manager,Automated
+JE-100128,1,2026-05-22,2026-05-22 10:24:12,6500,Marketing,Advertising campaign,637.25,0,s.patel,controller,Automated
+JE-100128,2,2026-05-22,2026-05-22 10:24:12,2000,Accounts Payable,Advertising campaign,0,637.25,s.patel,controller,Automated
+JE-100129,1,2026-04-17,2026-04-17 13:59:50,6100,Rent Expense,Monthly office rent,815.86,0,s.patel,controller,Automated
+JE-100129,2,2026-04-17,2026-04-17 13:59:50,1000,Cash,Monthly office rent,0,815.86,s.patel,controller,Automated
+JE-100130,1,2026-05-29,2026-05-29 15:55:09,1100,Accounts Receivable,Customer sales invoice,24886.75,0,r.chen,cfo,Automated
+JE-100130,2,2026-05-29,2026-05-29 15:55:09,4000,Revenue,Customer sales invoice,0,24886.75,r.chen,cfo,Automated
+JE-100131,1,2026-05-22,2026-05-22 16:24:29,6500,Marketing,Advertising campaign,1376.92,0,m.lopez,,Automated
+JE-100131,2,2026-05-22,2026-05-22 16:24:29,2000,Accounts Payable,Advertising campaign,0,1376.92,m.lopez,,Automated
+JE-100132,1,2026-04-16,2026-04-16 08:20:47,5000,Cost of Goods Sold,Cost of goods sold,7707.83,0,r.chen,,Automated
+JE-100132,2,2026-04-16,2026-04-16 08:20:47,1200,Inventory,Cost of goods sold,0,7707.83,r.chen,,Automated
+JE-100133,1,2026-06-19,2026-06-19 10:31:02,6300,Travel and Entertainment,Employee travel reimbursement,1879.58,0,a.khan,cfo,Automated
+JE-100133,2,2026-06-19,2026-06-19 10:31:02,2000,Accounts Payable,Employee travel reimbursement,0,1879.58,a.khan,cfo,Automated
+JE-100134,1,2026-04-23,2026-04-23 09:33:58,6000,Payroll Expense,Payroll run,74132.91,0,r.chen,controller,Automated
+JE-100134,2,2026-04-23,2026-04-23 09:33:58,1000,Cash,Payroll run,0,74132.91,r.chen,controller,Automated
+JE-100135,1,2026-06-17,2026-06-17 10:04:30,6200,Utilities,Electricity and water,2253.87,0,k.nguyen,,Automated
+JE-100135,2,2026-06-17,2026-06-17 10:04:30,2000,Accounts Payable,Electricity and water,0,2253.87,k.nguyen,,Automated
+JE-100136,1,2026-06-16,2026-06-16 09:54:21,6000,Payroll Expense,Payroll run,11396.09,0,k.nguyen,cfo,Automated
+JE-100136,2,2026-06-16,2026-06-16 09:54:21,1000,Cash,Payroll run,0,11396.09,k.nguyen,cfo,Automated
+JE-100137,1,2026-03-23,2026-03-23 15:55:34,1200,Inventory,Inventory purchase,1794.86,0,j.smith,,Automated
+JE-100137,2,2026-03-23,2026-03-23 15:55:34,2000,Accounts Payable,Inventory purchase,0,1794.86,j.smith,,Automated
+JE-100138,1,2026-04-22,2026-04-22 09:48:40,5000,Cost of Goods Sold,Cost of goods sold,12101.28,0,d.wilson,controller,Automated
+JE-100138,2,2026-04-22,2026-04-22 09:48:40,1200,Inventory,Cost of goods sold,0,12101.28,d.wilson,controller,Automated
+JE-100139,1,2026-03-18,2026-03-18 08:02:20,6500,Marketing,Advertising campaign,354.0,0,k.nguyen,fin.manager,Automated
+JE-100139,2,2026-03-18,2026-03-18 08:02:20,2000,Accounts Payable,Advertising campaign,0,354.0,k.nguyen,fin.manager,Automated
+JE-100140,1,2026-03-04,2026-03-04 16:26:36,6000,Payroll Expense,Payroll run,2637.95,0,d.wilson,,Automated
+JE-100140,2,2026-03-04,2026-03-04 16:26:36,1000,Cash,Payroll run,0,2637.95,d.wilson,,Automated
+JE-100141,1,2026-04-08,2026-04-08 17:43:15,6200,Utilities,Electricity and water,378.21,0,r.chen,,Automated
+JE-100141,2,2026-04-08,2026-04-08 17:43:15,2000,Accounts Payable,Electricity and water,0,378.21,r.chen,,Automated
+JE-100142,1,2026-04-28,2026-04-28 12:42:00,6200,Utilities,Electricity and water,583.74,0,k.nguyen,fin.manager,Automated
+JE-100142,2,2026-04-28,2026-04-28 12:42:00,2000,Accounts Payable,Electricity and water,0,583.74,k.nguyen,fin.manager,Automated
+JE-100143,1,2026-04-24,2026-04-24 13:37:19,1200,Inventory,Inventory purchase,332.14,0,d.wilson,,Automated
+JE-100143,2,2026-04-24,2026-04-24 13:37:19,2000,Accounts Payable,Inventory purchase,0,332.14,d.wilson,,Automated
+JE-100144,1,2026-03-19,2026-03-19 11:24:54,1100,Accounts Receivable,Customer sales invoice,3217.79,0,r.chen,fin.manager,Automated
+JE-100144,2,2026-03-19,2026-03-19 11:24:54,4000,Revenue,Customer sales invoice,0,3217.79,r.chen,fin.manager,Automated
+JE-100145,1,2026-03-17,2026-03-17 12:01:53,1500,Fixed Assets,Equipment purchase,1529.56,0,d.wilson,controller,Automated
+JE-100145,2,2026-03-17,2026-03-17 12:01:53,1000,Cash,Equipment purchase,0,1529.56,d.wilson,controller,Automated
+JE-100146,1,2026-01-13,2026-01-13 17:47:31,1500,Fixed Assets,Equipment purchase,71568.58,0,k.nguyen,fin.manager,Automated
+JE-100146,2,2026-01-13,2026-01-13 17:47:31,1000,Cash,Equipment purchase,0,71568.58,k.nguyen,fin.manager,Automated
+JE-100147,1,2026-04-01,2026-04-01 11:40:12,5000,Cost of Goods Sold,Cost of goods sold,10076.61,0,s.patel,fin.manager,Automated
+JE-100147,2,2026-04-01,2026-04-01 11:40:12,1200,Inventory,Cost of goods sold,0,10076.61,s.patel,fin.manager,Automated
+JE-100148,1,2026-06-10,2026-06-10 08:19:50,6200,Utilities,Electricity and water,11836.38,0,r.chen,controller,Automated
+JE-100148,2,2026-06-10,2026-06-10 08:19:50,2000,Accounts Payable,Electricity and water,0,11836.38,r.chen,controller,Automated
+JE-100149,1,2026-02-03,2026-02-03 09:58:18,1500,Fixed Assets,Equipment purchase,1599.71,0,m.lopez,,Automated
+JE-100149,2,2026-02-03,2026-02-03 09:58:18,1000,Cash,Equipment purchase,0,1599.71,m.lopez,,Automated
+JE-100150,1,2026-05-19,2026-05-19 13:33:32,6200,Utilities,Electricity and water,459.86,0,m.lopez,,Automated
+JE-100150,2,2026-05-19,2026-05-19 13:33:32,2000,Accounts Payable,Electricity and water,0,459.86,m.lopez,,Automated
+JE-100151,1,2026-05-04,2026-05-04 12:47:55,1100,Accounts Receivable,Customer sales invoice,103839.25,0,m.lopez,controller,Automated
+JE-100151,2,2026-05-04,2026-05-04 12:47:55,4000,Revenue,Customer sales invoice,0,103839.25,m.lopez,controller,Automated
+JE-100152,1,2026-02-06,2026-02-06 11:55:43,6500,Marketing,Advertising campaign,150503.94,0,d.wilson,cfo,Automated
+JE-100152,2,2026-02-06,2026-02-06 11:55:43,2000,Accounts Payable,Advertising campaign,0,150503.94,d.wilson,cfo,Automated
+JE-100153,1,2026-03-09,2026-03-09 16:07:29,6300,Travel and Entertainment,Employee travel reimbursement,155593.04,0,m.lopez,cfo,Automated
+JE-100153,2,2026-03-09,2026-03-09 16:07:29,2000,Accounts Payable,Employee travel reimbursement,0,155593.04,m.lopez,cfo,Automated
+JE-100154,1,2026-04-06,2026-04-06 09:43:14,1100,Accounts Receivable,Customer sales invoice,8492.75,0,r.chen,cfo,Automated
+JE-100154,2,2026-04-06,2026-04-06 09:43:14,4000,Revenue,Customer sales invoice,0,8492.75,r.chen,cfo,Automated
+JE-100155,1,2026-02-26,2026-02-26 09:40:52,6000,Payroll Expense,Payroll run,104795.95,0,r.chen,cfo,Automated
+JE-100155,2,2026-02-26,2026-02-26 09:40:52,1000,Cash,Payroll run,0,104795.95,r.chen,cfo,Automated
+JE-100156,1,2026-01-30,2026-01-30 10:02:02,1100,Accounts Receivable,Customer sales invoice,13883.22,0,m.lopez,fin.manager,Automated
+JE-100156,2,2026-01-30,2026-01-30 10:02:02,4000,Revenue,Customer sales invoice,0,13883.22,m.lopez,fin.manager,Automated
+JE-100157,1,2026-05-18,2026-05-18 10:24:29,6100,Rent Expense,Monthly office rent,209.28,0,m.lopez,,Automated
+JE-100157,2,2026-05-18,2026-05-18 10:24:29,1000,Cash,Monthly office rent,0,209.28,m.lopez,,Automated
+JE-100158,1,2026-02-09,2026-02-09 14:41:06,1200,Inventory,Inventory purchase,2416.12,0,k.nguyen,fin.manager,Automated
+JE-100158,2,2026-02-09,2026-02-09 14:41:06,2000,Accounts Payable,Inventory purchase,0,2416.12,k.nguyen,fin.manager,Automated
+JE-100159,1,2026-02-25,2026-02-25 15:28:15,1100,Accounts Receivable,Customer sales invoice,128.22,0,k.nguyen,cfo,Automated
+JE-100159,2,2026-02-25,2026-02-25 15:28:15,4000,Revenue,Customer sales invoice,0,128.22,k.nguyen,cfo,Automated
+JE-100160,1,2026-06-15,2026-06-15 13:03:25,6000,Payroll Expense,Payroll run,6262.35,0,m.lopez,controller,Automated
+JE-100160,2,2026-06-15,2026-06-15 13:03:25,1000,Cash,Payroll run,0,6262.35,m.lopez,controller,Automated
+JE-100161,1,2026-02-24,2026-02-24 17:01:03,6500,Marketing,Advertising campaign,200.69,0,k.nguyen,controller,Automated
+JE-100161,2,2026-02-24,2026-02-24 17:01:03,2000,Accounts Payable,Advertising campaign,0,200.69,k.nguyen,controller,Automated
+JE-100162,1,2026-05-22,2026-05-22 11:37:13,1500,Fixed Assets,Equipment purchase,475.53,0,k.nguyen,,Automated
+JE-100162,2,2026-05-22,2026-05-22 11:37:13,1000,Cash,Equipment purchase,0,475.53,k.nguyen,,Automated
+JE-100163,1,2026-06-02,2026-06-02 08:17:54,6000,Payroll Expense,Payroll run,35926.62,0,a.khan,controller,Automated
+JE-100163,2,2026-06-02,2026-06-02 08:17:54,1000,Cash,Payroll run,0,35926.62,a.khan,controller,Automated
+JE-100164,1,2026-01-29,2026-01-29 08:08:00,1200,Inventory,Inventory purchase,671.67,0,m.lopez,,Automated
+JE-100164,2,2026-01-29,2026-01-29 08:08:00,2000,Accounts Payable,Inventory purchase,0,671.67,m.lopez,,Automated
+JE-100165,1,2026-01-05,2026-01-05 10:16:03,5000,Cost of Goods Sold,Cost of goods sold,8774.34,0,a.khan,,Automated
+JE-100165,2,2026-01-05,2026-01-05 10:16:03,1200,Inventory,Cost of goods sold,0,8774.34,a.khan,,Automated
+JE-100166,1,2026-04-03,2026-04-03 16:37:06,1200,Inventory,Inventory purchase,237.16,0,r.chen,cfo,Automated
+JE-100166,2,2026-04-03,2026-04-03 16:37:06,2000,Accounts Payable,Inventory purchase,0,237.16,r.chen,cfo,Automated
+JE-100167,1,2026-06-18,2026-06-18 16:19:29,6400,Professional Fees,Consulting services invoice,25113.19,0,d.wilson,controller,Automated
+JE-100167,2,2026-06-18,2026-06-18 16:19:29,2000,Accounts Payable,Consulting services invoice,0,25113.19,d.wilson,controller,Automated
+JE-100168,1,2026-04-13,2026-04-13 14:43:06,6400,Professional Fees,Consulting services invoice,197395.07,0,r.chen,cfo,Automated
+JE-100168,2,2026-04-13,2026-04-13 14:43:06,2000,Accounts Payable,Consulting services invoice,0,197395.07,r.chen,cfo,Automated
+JE-100169,1,2026-01-21,2026-01-21 13:38:09,6500,Marketing,Advertising campaign,174.79,0,j.smith,cfo,Automated
+JE-100169,2,2026-01-21,2026-01-21 13:38:09,2000,Accounts Payable,Advertising campaign,0,174.79,j.smith,cfo,Automated
+JE-100170,1,2026-03-25,2026-03-25 14:38:33,1500,Fixed Assets,Equipment purchase,6450.25,0,m.lopez,cfo,Automated
+JE-100170,2,2026-03-25,2026-03-25 14:38:33,1000,Cash,Equipment purchase,0,6450.25,m.lopez,cfo,Automated
+JE-100171,1,2026-06-29,2026-06-29 09:54:41,6300,Travel and Entertainment,Employee travel reimbursement,212.47,0,d.wilson,,Automated
+JE-100171,2,2026-06-29,2026-06-29 09:54:41,2000,Accounts Payable,Employee travel reimbursement,0,212.47,d.wilson,,Automated
+JE-100172,1,2026-02-25,2026-02-25 14:28:56,1200,Inventory,Inventory purchase,23920.58,0,a.khan,fin.manager,Automated
+JE-100172,2,2026-02-25,2026-02-25 14:28:56,2000,Accounts Payable,Inventory purchase,0,23920.58,a.khan,fin.manager,Automated
+JE-100173,1,2026-04-13,2026-04-13 14:46:06,6000,Payroll Expense,Payroll run,53762.99,0,m.lopez,fin.manager,Automated
+JE-100173,2,2026-04-13,2026-04-13 14:46:06,1000,Cash,Payroll run,0,53762.99,m.lopez,fin.manager,Automated
+JE-100174,1,2026-04-06,2026-04-06 10:43:59,6000,Payroll Expense,Payroll run,15662.31,0,r.chen,controller,Automated
+JE-100174,2,2026-04-06,2026-04-06 10:43:59,1000,Cash,Payroll run,0,15662.31,r.chen,controller,Automated
+JE-100175,1,2026-04-21,2026-04-21 09:47:47,6100,Rent Expense,Monthly office rent,55570.87,0,m.lopez,controller,Automated
+JE-100175,2,2026-04-21,2026-04-21 09:47:47,1000,Cash,Monthly office rent,0,55570.87,m.lopez,controller,Automated
+JE-100176,1,2026-03-26,2026-03-26 09:26:22,1200,Inventory,Inventory purchase,157.74,0,k.nguyen,,Automated
+JE-100176,2,2026-03-26,2026-03-26 09:26:22,2000,Accounts Payable,Inventory purchase,0,157.74,k.nguyen,,Automated
+JE-100177,1,2026-01-14,2026-01-14 12:38:19,6300,Travel and Entertainment,Employee travel reimbursement,73232.54,0,m.lopez,controller,Automated
+JE-100177,2,2026-01-14,2026-01-14 12:38:19,2000,Accounts Payable,Employee travel reimbursement,0,73232.54,m.lopez,controller,Automated
+JE-100178,1,2026-02-09,2026-02-09 15:14:54,1500,Fixed Assets,Equipment purchase,4725.65,0,j.smith,cfo,Automated
+JE-100178,2,2026-02-09,2026-02-09 15:14:54,1000,Cash,Equipment purchase,0,4725.65,j.smith,cfo,Automated
+JE-100179,1,2026-03-13,2026-03-13 17:14:51,6000,Payroll Expense,Payroll run,239.4,0,r.chen,,Automated
+JE-100179,2,2026-03-13,2026-03-13 17:14:51,1000,Cash,Payroll run,0,239.4,r.chen,,Automated
+JE-100180,1,2026-01-07,2026-01-07 17:59:42,1500,Fixed Assets,Equipment purchase,10587.46,0,k.nguyen,cfo,Automated
+JE-100180,2,2026-01-07,2026-01-07 17:59:42,1000,Cash,Equipment purchase,0,10587.46,k.nguyen,cfo,Automated
+JE-100181,1,2026-03-11,2026-03-11 12:58:21,1100,Accounts Receivable,Customer sales invoice,124.61,0,m.lopez,controller,Automated
+JE-100181,2,2026-03-11,2026-03-11 12:58:21,4000,Revenue,Customer sales invoice,0,124.61,m.lopez,controller,Automated
+JE-100182,1,2026-02-06,2026-02-06 08:05:47,1500,Fixed Assets,Equipment purchase,14765.13,0,s.patel,controller,Automated
+JE-100182,2,2026-02-06,2026-02-06 08:05:47,1000,Cash,Equipment purchase,0,14765.13,s.patel,controller,Automated
+JE-100183,1,2026-02-10,2026-02-10 13:19:46,6300,Travel and Entertainment,Employee travel reimbursement,2429.11,0,m.lopez,,Automated
+JE-100183,2,2026-02-10,2026-02-10 13:19:46,2000,Accounts Payable,Employee travel reimbursement,0,2429.11,m.lopez,,Automated
+JE-100184,1,2026-01-14,2026-01-14 10:10:48,1500,Fixed Assets,Equipment purchase,9279.8,0,s.patel,controller,Automated
+JE-100184,2,2026-01-14,2026-01-14 10:10:48,1000,Cash,Equipment purchase,0,9279.8,s.patel,controller,Automated
+JE-100185,1,2026-05-05,2026-05-05 17:28:26,1100,Accounts Receivable,Customer sales invoice,2899.16,0,m.lopez,cfo,Automated
+JE-100185,2,2026-05-05,2026-05-05 17:28:26,4000,Revenue,Customer sales invoice,0,2899.16,m.lopez,cfo,Automated
+JE-100186,1,2026-01-29,2026-01-29 12:43:43,6100,Rent Expense,Monthly office rent,1377.43,0,s.patel,cfo,Automated
+JE-100186,2,2026-01-29,2026-01-29 12:43:43,1000,Cash,Monthly office rent,0,1377.43,s.patel,cfo,Automated
+JE-100187,1,2026-06-03,2026-06-03 08:00:13,1100,Accounts Receivable,Customer sales invoice,141.21,0,m.lopez,,Automated
+JE-100187,2,2026-06-03,2026-06-03 08:00:13,4000,Revenue,Customer sales invoice,0,141.21,m.lopez,,Automated
+JE-100188,1,2026-03-16,2026-03-16 13:07:00,6200,Utilities,Electricity and water,33245.35,0,r.chen,cfo,Automated
+JE-100188,2,2026-03-16,2026-03-16 13:07:00,2000,Accounts Payable,Electricity and water,0,33245.35,r.chen,cfo,Automated
+JE-100189,1,2026-04-08,2026-04-08 16:45:14,6300,Travel and Entertainment,Employee travel reimbursement,380.01,0,s.patel,cfo,Automated
+JE-100189,2,2026-04-08,2026-04-08 16:45:14,2000,Accounts Payable,Employee travel reimbursement,0,380.01,s.patel,cfo,Automated
+JE-100190,1,2026-04-22,2026-04-22 08:29:58,6000,Payroll Expense,Payroll run,172.92,0,j.smith,,Automated
+JE-100190,2,2026-04-22,2026-04-22 08:29:58,1000,Cash,Payroll run,0,172.92,j.smith,,Automated
+JE-100191,1,2026-04-14,2026-04-14 14:18:07,1500,Fixed Assets,Equipment purchase,2609.99,0,r.chen,fin.manager,Automated
+JE-100191,2,2026-04-14,2026-04-14 14:18:07,1000,Cash,Equipment purchase,0,2609.99,r.chen,fin.manager,Automated
+JE-100192,1,2026-06-08,2026-06-08 15:53:44,6200,Utilities,Electricity and water,44092.34,0,m.lopez,controller,Automated
+JE-100192,2,2026-06-08,2026-06-08 15:53:44,2000,Accounts Payable,Electricity and water,0,44092.34,m.lopez,controller,Automated
+JE-100193,1,2026-03-04,2026-03-04 14:37:25,6300,Travel and Entertainment,Employee travel reimbursement,61206.62,0,s.patel,controller,Automated
+JE-100193,2,2026-03-04,2026-03-04 14:37:25,2000,Accounts Payable,Employee travel reimbursement,0,61206.62,s.patel,controller,Automated
+JE-100194,1,2026-02-26,2026-02-26 13:49:10,6300,Travel and Entertainment,Employee travel reimbursement,74598.58,0,j.smith,cfo,Automated
+JE-100194,2,2026-02-26,2026-02-26 13:49:10,2000,Accounts Payable,Employee travel reimbursement,0,74598.58,j.smith,cfo,Automated
+JE-100195,1,2026-02-19,2026-02-19 13:22:46,6100,Rent Expense,Monthly office rent,5636.32,0,k.nguyen,,Automated
+JE-100195,2,2026-02-19,2026-02-19 13:22:46,1000,Cash,Monthly office rent,0,5636.32,k.nguyen,,Automated
+JE-100196,1,2026-02-20,2026-02-20 10:38:09,6200,Utilities,Electricity and water,602.13,0,k.nguyen,,Automated
+JE-100196,2,2026-02-20,2026-02-20 10:38:09,2000,Accounts Payable,Electricity and water,0,602.13,k.nguyen,,Automated
+JE-100197,1,2026-06-10,2026-06-10 15:29:48,6100,Rent Expense,Monthly office rent,384.22,0,s.patel,,Automated
+JE-100197,2,2026-06-10,2026-06-10 15:29:48,1000,Cash,Monthly office rent,0,384.22,s.patel,,Automated
+JE-100198,1,2026-05-25,2026-05-25 17:20:55,6500,Marketing,Advertising campaign,17690.52,0,d.wilson,fin.manager,Automated
+JE-100198,2,2026-05-25,2026-05-25 17:20:55,2000,Accounts Payable,Advertising campaign,0,17690.52,d.wilson,fin.manager,Automated
+JE-100199,1,2026-05-01,2026-05-01 15:40:19,6200,Utilities,Electricity and water,2826.29,0,k.nguyen,controller,Automated
+JE-100199,2,2026-05-01,2026-05-01 15:40:19,2000,Accounts Payable,Electricity and water,0,2826.29,k.nguyen,controller,Automated
+JE-100200,1,2026-04-29,2026-04-29 15:02:03,6000,Payroll Expense,Payroll run,4722.93,0,m.lopez,,Automated
+JE-100200,2,2026-04-29,2026-04-29 15:02:03,1000,Cash,Payroll run,0,4722.93,m.lopez,,Automated
+JE-100201,1,2026-06-02,2026-06-02 16:24:29,6100,Rent Expense,Monthly office rent,13409.09,0,s.patel,cfo,Automated
+JE-100201,2,2026-06-02,2026-06-02 16:24:29,1000,Cash,Monthly office rent,0,13409.09,s.patel,cfo,Automated
+JE-100202,1,2026-05-27,2026-05-27 11:20:38,6400,Professional Fees,Consulting services invoice,3048.75,0,r.chen,controller,Automated
+JE-100202,2,2026-05-27,2026-05-27 11:20:38,2000,Accounts Payable,Consulting services invoice,0,3048.75,r.chen,controller,Automated
+JE-100203,1,2026-01-22,2026-01-22 16:41:11,6500,Marketing,Advertising campaign,219.56,0,j.smith,fin.manager,Automated
+JE-100203,2,2026-01-22,2026-01-22 16:41:11,2000,Accounts Payable,Advertising campaign,0,219.56,j.smith,fin.manager,Automated
+JE-100204,1,2026-02-10,2026-02-10 13:23:58,6500,Marketing,Advertising campaign,5363.23,0,m.lopez,fin.manager,Automated
+JE-100204,2,2026-02-10,2026-02-10 13:23:58,2000,Accounts Payable,Advertising campaign,0,5363.23,m.lopez,fin.manager,Automated
+JE-100205,1,2026-06-11,2026-06-11 13:04:21,1500,Fixed Assets,Equipment purchase,148.87,0,j.smith,fin.manager,Automated
+JE-100205,2,2026-06-11,2026-06-11 13:04:21,1000,Cash,Equipment purchase,0,148.87,j.smith,fin.manager,Automated
+JE-100206,1,2026-06-18,2026-06-18 17:55:09,1100,Accounts Receivable,Customer sales invoice,678.56,0,m.lopez,cfo,Automated
+JE-100206,2,2026-06-18,2026-06-18 17:55:09,4000,Revenue,Customer sales invoice,0,678.56,m.lopez,cfo,Automated
+JE-100207,1,2026-06-17,2026-06-17 14:08:38,6200,Utilities,Electricity and water,105989.61,0,d.wilson,controller,Automated
+JE-100207,2,2026-06-17,2026-06-17 14:08:38,2000,Accounts Payable,Electricity and water,0,105989.61,d.wilson,controller,Automated
+JE-100208,1,2026-03-26,2026-03-26 10:42:44,1100,Accounts Receivable,Customer sales invoice,6989.45,0,k.nguyen,,Automated
+JE-100208,2,2026-03-26,2026-03-26 10:42:44,4000,Revenue,Customer sales invoice,0,6989.45,k.nguyen,,Automated
+JE-100209,1,2026-05-11,2026-05-11 13:01:23,1200,Inventory,Inventory purchase,203.42,0,m.lopez,controller,Automated
+JE-100209,2,2026-05-11,2026-05-11 13:01:23,2000,Accounts Payable,Inventory purchase,0,203.42,m.lopez,controller,Automated
+JE-100210,1,2026-05-05,2026-05-05 11:14:08,6000,Payroll Expense,Payroll run,134061.87,0,a.khan,controller,Automated
+JE-100210,2,2026-05-05,2026-05-05 11:14:08,1000,Cash,Payroll run,0,134061.87,a.khan,controller,Automated
+JE-100211,1,2026-01-26,2026-01-26 16:49:34,1100,Accounts Receivable,Customer sales invoice,61180.59,0,k.nguyen,cfo,Automated
+JE-100211,2,2026-01-26,2026-01-26 16:49:34,4000,Revenue,Customer sales invoice,0,61180.59,k.nguyen,cfo,Automated
+JE-100212,1,2026-06-08,2026-06-08 10:38:24,1200,Inventory,Inventory purchase,133.22,0,a.khan,cfo,Automated
+JE-100212,2,2026-06-08,2026-06-08 10:38:24,2000,Accounts Payable,Inventory purchase,0,133.22,a.khan,cfo,Automated
+JE-100213,1,2026-02-12,2026-02-12 15:02:26,1500,Fixed Assets,Equipment purchase,46756.75,0,m.lopez,cfo,Automated
+JE-100213,2,2026-02-12,2026-02-12 15:02:26,1000,Cash,Equipment purchase,0,46756.75,m.lopez,cfo,Automated
+JE-100214,1,2026-03-03,2026-03-03 12:51:50,5000,Cost of Goods Sold,Cost of goods sold,158358.87,0,r.chen,controller,Automated
+JE-100214,2,2026-03-03,2026-03-03 12:51:50,1200,Inventory,Cost of goods sold,0,158358.87,r.chen,controller,Automated
+JE-100215,1,2026-05-27,2026-05-27 15:29:49,6000,Payroll Expense,Payroll run,17314.6,0,m.lopez,fin.manager,Automated
+JE-100215,2,2026-05-27,2026-05-27 15:29:49,1000,Cash,Payroll run,0,17314.6,m.lopez,fin.manager,Automated
+JE-100216,1,2026-02-11,2026-02-11 11:51:38,1200,Inventory,Inventory purchase,5503.23,0,a.khan,,Automated
+JE-100216,2,2026-02-11,2026-02-11 11:51:38,2000,Accounts Payable,Inventory purchase,0,5503.23,a.khan,,Automated
+JE-100217,1,2026-04-06,2026-04-06 16:59:06,6400,Professional Fees,Consulting services invoice,13058.43,0,d.wilson,cfo,Automated
+JE-100217,2,2026-04-06,2026-04-06 16:59:06,2000,Accounts Payable,Consulting services invoice,0,13058.43,d.wilson,cfo,Automated
+JE-100218,1,2026-02-11,2026-02-11 12:28:57,6100,Rent Expense,Monthly office rent,872.38,0,s.patel,fin.manager,Automated
+JE-100218,2,2026-02-11,2026-02-11 12:28:57,1000,Cash,Monthly office rent,0,872.38,s.patel,fin.manager,Automated
+JE-100219,1,2026-02-26,2026-02-26 15:56:22,6100,Rent Expense,Monthly office rent,132789.51,0,j.smith,fin.manager,Automated
+JE-100219,2,2026-02-26,2026-02-26 15:56:22,1000,Cash,Monthly office rent,0,132789.51,j.smith,fin.manager,Automated
+JE-100220,1,2026-04-06,2026-04-06 11:24:05,6400,Professional Fees,Consulting services invoice,2033.75,0,m.lopez,fin.manager,Automated
+JE-100220,2,2026-04-06,2026-04-06 11:24:05,2000,Accounts Payable,Consulting services invoice,0,2033.75,m.lopez,fin.manager,Automated
+JE-100221,1,2026-06-16,2026-06-16 13:50:09,6100,Rent Expense,Monthly office rent,58787.06,0,a.khan,controller,Automated
+JE-100221,2,2026-06-16,2026-06-16 13:50:09,1000,Cash,Monthly office rent,0,58787.06,a.khan,controller,Automated
+JE-100222,1,2026-05-01,2026-05-01 10:48:45,1100,Accounts Receivable,Customer sales invoice,106514.16,0,r.chen,fin.manager,Automated
+JE-100222,2,2026-05-01,2026-05-01 10:48:45,4000,Revenue,Customer sales invoice,0,106514.16,r.chen,fin.manager,Automated
+JE-100223,1,2026-01-21,2026-01-21 08:16:13,1500,Fixed Assets,Equipment purchase,104.07,0,k.nguyen,cfo,Automated
+JE-100223,2,2026-01-21,2026-01-21 08:16:13,1000,Cash,Equipment purchase,0,104.07,k.nguyen,cfo,Automated
+JE-100224,1,2026-01-29,2026-01-29 12:15:19,1500,Fixed Assets,Equipment purchase,5516.28,0,j.smith,fin.manager,Automated
+JE-100224,2,2026-01-29,2026-01-29 12:15:19,1000,Cash,Equipment purchase,0,5516.28,j.smith,fin.manager,Automated
+JE-100225,1,2026-01-29,2026-01-29 15:38:34,1500,Fixed Assets,Equipment purchase,3224.59,0,j.smith,,Automated
+JE-100225,2,2026-01-29,2026-01-29 15:38:34,1000,Cash,Equipment purchase,0,3224.59,j.smith,,Automated
+JE-100226,1,2026-02-06,2026-02-06 12:27:00,1500,Fixed Assets,Equipment purchase,628.63,0,s.patel,cfo,Automated
+JE-100226,2,2026-02-06,2026-02-06 12:27:00,1000,Cash,Equipment purchase,0,628.63,s.patel,cfo,Automated
+JE-100227,1,2026-01-22,2026-01-22 16:23:04,6300,Travel and Entertainment,Employee travel reimbursement,415.08,0,s.patel,cfo,Automated
+JE-100227,2,2026-01-22,2026-01-22 16:23:04,2000,Accounts Payable,Employee travel reimbursement,0,415.08,s.patel,cfo,Automated
+JE-100228,1,2026-05-01,2026-05-01 08:40:24,1200,Inventory,Inventory purchase,116.71,0,m.lopez,controller,Automated
+JE-100228,2,2026-05-01,2026-05-01 08:40:24,2000,Accounts Payable,Inventory purchase,0,116.71,m.lopez,controller,Automated
+JE-100229,1,2026-03-30,2026-03-30 11:46:42,6000,Payroll Expense,Payroll run,40005.16,0,d.wilson,controller,Automated
+JE-100229,2,2026-03-30,2026-03-30 11:46:42,1000,Cash,Payroll run,0,40005.16,d.wilson,controller,Automated
+JE-100230,1,2026-03-27,2026-03-27 10:02:22,1500,Fixed Assets,Equipment purchase,26675.78,0,s.patel,fin.manager,Automated
+JE-100230,2,2026-03-27,2026-03-27 10:02:22,1000,Cash,Equipment purchase,0,26675.78,s.patel,fin.manager,Automated
+JE-100231,1,2026-06-25,2026-06-25 15:44:30,6200,Utilities,Electricity and water,54987.76,0,d.wilson,controller,Automated
+JE-100231,2,2026-06-25,2026-06-25 15:44:30,2000,Accounts Payable,Electricity and water,0,54987.76,d.wilson,controller,Automated
+JE-100232,1,2026-04-28,2026-04-28 08:18:12,6200,Utilities,Electricity and water,161.52,0,j.smith,,Automated
+JE-100232,2,2026-04-28,2026-04-28 08:18:12,2000,Accounts Payable,Electricity and water,0,161.52,j.smith,,Automated
+JE-100233,1,2026-05-12,2026-05-12 14:52:34,6400,Professional Fees,Consulting services invoice,1100.19,0,r.chen,cfo,Automated
+JE-100233,2,2026-05-12,2026-05-12 14:52:34,2000,Accounts Payable,Consulting services invoice,0,1100.19,r.chen,cfo,Automated
+JE-100234,1,2026-01-13,2026-01-13 13:17:07,5000,Cost of Goods Sold,Cost of goods sold,879.36,0,k.nguyen,fin.manager,Automated
+JE-100234,2,2026-01-13,2026-01-13 13:17:07,1200,Inventory,Cost of goods sold,0,879.36,k.nguyen,fin.manager,Automated
+JE-100235,1,2026-04-09,2026-04-09 13:11:31,6500,Marketing,Advertising campaign,89599.12,0,d.wilson,fin.manager,Automated
+JE-100235,2,2026-04-09,2026-04-09 13:11:31,2000,Accounts Payable,Advertising campaign,0,89599.12,d.wilson,fin.manager,Automated
+JE-100236,1,2026-05-13,2026-05-13 12:51:05,6000,Payroll Expense,Payroll run,112259.87,0,d.wilson,fin.manager,Automated
+JE-100236,2,2026-05-13,2026-05-13 12:51:05,1000,Cash,Payroll run,0,112259.87,d.wilson,fin.manager,Automated
+JE-100237,1,2026-02-16,2026-02-16 16:18:20,6100,Rent Expense,Monthly office rent,2636.35,0,j.smith,cfo,Automated
+JE-100237,2,2026-02-16,2026-02-16 16:18:20,1000,Cash,Monthly office rent,0,2636.35,j.smith,cfo,Automated
+JE-100238,1,2026-06-04,2026-06-04 14:10:44,1100,Accounts Receivable,Customer sales invoice,1026.68,0,r.chen,controller,Automated
+JE-100238,2,2026-06-04,2026-06-04 14:10:44,4000,Revenue,Customer sales invoice,0,1026.68,r.chen,controller,Automated
+JE-100239,1,2026-04-22,2026-04-22 12:40:50,6000,Payroll Expense,Payroll run,10690.79,0,j.smith,controller,Automated
+JE-100239,2,2026-04-22,2026-04-22 12:40:50,1000,Cash,Payroll run,0,10690.79,j.smith,controller,Automated
+JE-100240,1,2026-06-23,2026-06-23 10:01:09,6300,Travel and Entertainment,Employee travel reimbursement,1580.98,0,k.nguyen,,Automated
+JE-100240,2,2026-06-23,2026-06-23 10:01:09,2000,Accounts Payable,Employee travel reimbursement,0,1580.98,k.nguyen,,Automated
+JE-100241,1,2026-03-02,2026-03-02 13:23:24,6500,Marketing,Advertising campaign,130.27,0,s.patel,controller,Automated
+JE-100241,2,2026-03-02,2026-03-02 13:23:24,2000,Accounts Payable,Advertising campaign,0,130.27,s.patel,controller,Automated
+JE-100242,1,2026-04-06,2026-04-06 15:48:04,6500,Marketing,Advertising campaign,135243.89,0,s.patel,controller,Automated
+JE-100242,2,2026-04-06,2026-04-06 15:48:04,2000,Accounts Payable,Advertising campaign,0,135243.89,s.patel,controller,Automated
+JE-100243,1,2026-06-16,2026-06-16 12:15:07,1200,Inventory,Inventory purchase,1625.3,0,j.smith,,Automated
+JE-100243,2,2026-06-16,2026-06-16 12:15:07,2000,Accounts Payable,Inventory purchase,0,1625.3,j.smith,,Automated
+JE-100244,1,2026-03-09,2026-03-09 12:45:28,6500,Marketing,Advertising campaign,5111.63,0,a.khan,,Automated
+JE-100244,2,2026-03-09,2026-03-09 12:45:28,2000,Accounts Payable,Advertising campaign,0,5111.63,a.khan,,Automated
+JE-100245,1,2026-05-06,2026-05-06 11:07:08,1100,Accounts Receivable,Customer sales invoice,19504.56,0,k.nguyen,controller,Automated
+JE-100245,2,2026-05-06,2026-05-06 11:07:08,4000,Revenue,Customer sales invoice,0,19504.56,k.nguyen,controller,Automated
+JE-100246,1,2026-04-24,2026-04-24 09:51:43,6500,Marketing,Advertising campaign,371.34,0,k.nguyen,,Automated
+JE-100246,2,2026-04-24,2026-04-24 09:51:43,2000,Accounts Payable,Advertising campaign,0,371.34,k.nguyen,,Automated
+JE-100247,1,2026-05-21,2026-05-21 16:18:57,6000,Payroll Expense,Payroll run,21952.48,0,m.lopez,controller,Automated
+JE-100247,2,2026-05-21,2026-05-21 16:18:57,1000,Cash,Payroll run,0,21952.48,m.lopez,controller,Automated
+JE-100248,1,2026-05-11,2026-05-11 11:07:12,6200,Utilities,Electricity and water,41610.03,0,k.nguyen,controller,Automated
+JE-100248,2,2026-05-11,2026-05-11 11:07:12,2000,Accounts Payable,Electricity and water,0,41610.03,k.nguyen,controller,Automated
+JE-100249,1,2026-01-07,2026-01-07 13:35:36,5000,Cost of Goods Sold,Cost of goods sold,40572.44,0,m.lopez,fin.manager,Automated
+JE-100249,2,2026-01-07,2026-01-07 13:35:36,1200,Inventory,Cost of goods sold,0,40572.44,m.lopez,fin.manager,Automated
+JE-100250,1,2026-01-23,2026-01-23 09:19:25,1200,Inventory,Inventory purchase,268.07,0,d.wilson,,Automated
+JE-100250,2,2026-01-23,2026-01-23 09:19:25,2000,Accounts Payable,Inventory purchase,0,268.07,d.wilson,,Automated
+JE-100251,1,2026-04-15,2026-04-15 17:04:08,1200,Inventory,Inventory purchase,2267.9,0,m.lopez,,Automated
+JE-100251,2,2026-04-15,2026-04-15 17:04:08,2000,Accounts Payable,Inventory purchase,0,2267.9,m.lopez,,Automated
+JE-100252,1,2026-05-13,2026-05-13 13:08:56,6500,Marketing,Advertising campaign,3445.48,0,k.nguyen,,Automated
+JE-100252,2,2026-05-13,2026-05-13 13:08:56,2000,Accounts Payable,Advertising campaign,0,3445.48,k.nguyen,,Automated
+JE-100253,1,2026-02-03,2026-02-03 14:32:58,1500,Fixed Assets,Equipment purchase,398.55,0,k.nguyen,controller,Automated
+JE-100253,2,2026-02-03,2026-02-03 14:32:58,1000,Cash,Equipment purchase,0,398.55,k.nguyen,controller,Automated
+JE-100254,1,2026-02-12,2026-02-12 10:20:59,1200,Inventory,Inventory purchase,319.85,0,d.wilson,cfo,Automated
+JE-100254,2,2026-02-12,2026-02-12 10:20:59,2000,Accounts Payable,Inventory purchase,0,319.85,d.wilson,cfo,Automated
+JE-100255,1,2026-03-06,2026-03-06 11:40:35,1100,Accounts Receivable,Customer sales invoice,61884.41,0,m.lopez,controller,Automated
+JE-100255,2,2026-03-06,2026-03-06 11:40:35,4000,Revenue,Customer sales invoice,0,61884.41,m.lopez,controller,Automated
+JE-100256,1,2026-02-13,2026-02-13 17:37:09,1100,Accounts Receivable,Customer sales invoice,10656.47,0,a.khan,cfo,Automated
+JE-100256,2,2026-02-13,2026-02-13 17:37:09,4000,Revenue,Customer sales invoice,0,10656.47,a.khan,cfo,Automated
+JE-100257,1,2026-06-04,2026-06-04 13:53:59,1500,Fixed Assets,Equipment purchase,23882.96,0,s.patel,controller,Automated
+JE-100257,2,2026-06-04,2026-06-04 13:53:59,1000,Cash,Equipment purchase,0,23882.96,s.patel,controller,Automated
+JE-100258,1,2026-05-28,2026-05-28 12:41:13,6400,Professional Fees,Consulting services invoice,185.37,0,k.nguyen,cfo,Automated
+JE-100258,2,2026-05-28,2026-05-28 12:41:13,2000,Accounts Payable,Consulting services invoice,0,185.37,k.nguyen,cfo,Automated
+JE-100259,1,2026-06-10,2026-06-10 16:18:41,6400,Professional Fees,Consulting services invoice,4400.74,0,m.lopez,cfo,Automated
+JE-100259,2,2026-06-10,2026-06-10 16:18:41,2000,Accounts Payable,Consulting services invoice,0,4400.74,m.lopez,cfo,Automated
+JE-100260,1,2026-01-19,2026-01-19 08:10:28,6300,Travel and Entertainment,Employee travel reimbursement,958.37,0,r.chen,controller,Automated
+JE-100260,2,2026-01-19,2026-01-19 08:10:28,2000,Accounts Payable,Employee travel reimbursement,0,958.37,r.chen,controller,Automated
+JE-100261,1,2026-03-23,2026-03-23 13:25:08,6000,Payroll Expense,Payroll run,10045.67,0,k.nguyen,fin.manager,Automated
+JE-100261,2,2026-03-23,2026-03-23 13:25:08,1000,Cash,Payroll run,0,10045.67,k.nguyen,fin.manager,Automated
+JE-100262,1,2026-03-23,2026-03-23 11:29:07,1200,Inventory,Inventory purchase,7135.9,0,m.lopez,controller,Automated
+JE-100262,2,2026-03-23,2026-03-23 11:29:07,2000,Accounts Payable,Inventory purchase,0,7135.9,m.lopez,controller,Automated
+JE-100263,1,2026-04-09,2026-04-09 17:26:15,6100,Rent Expense,Monthly office rent,146.89,0,k.nguyen,,Automated
+JE-100263,2,2026-04-09,2026-04-09 17:26:15,1000,Cash,Monthly office rent,0,146.89,k.nguyen,,Automated
+JE-100264,1,2026-02-18,2026-02-18 10:31:32,6000,Payroll Expense,Payroll run,120609.1,0,r.chen,fin.manager,Automated
+JE-100264,2,2026-02-18,2026-02-18 10:31:32,1000,Cash,Payroll run,0,120609.1,r.chen,fin.manager,Automated
+JE-100265,1,2026-04-28,2026-04-28 11:13:37,1100,Accounts Receivable,Customer sales invoice,4378.47,0,m.lopez,fin.manager,Automated
+JE-100265,2,2026-04-28,2026-04-28 11:13:37,4000,Revenue,Customer sales invoice,0,4378.47,m.lopez,fin.manager,Automated
+JE-100266,1,2026-06-17,2026-06-17 15:18:34,6500,Marketing,Advertising campaign,9371.56,0,j.smith,,Automated
+JE-100266,2,2026-06-17,2026-06-17 15:18:34,2000,Accounts Payable,Advertising campaign,0,9371.56,j.smith,,Automated
+JE-100267,1,2026-03-09,2026-03-09 13:48:25,6300,Travel and Entertainment,Employee travel reimbursement,276.68,0,m.lopez,controller,Automated
+JE-100267,2,2026-03-09,2026-03-09 13:48:25,2000,Accounts Payable,Employee travel reimbursement,0,276.68,m.lopez,controller,Automated
+JE-100268,1,2026-04-03,2026-04-03 16:18:04,1500,Fixed Assets,Equipment purchase,7144.89,0,r.chen,cfo,Automated
+JE-100268,2,2026-04-03,2026-04-03 16:18:04,1000,Cash,Equipment purchase,0,7144.89,r.chen,cfo,Automated
+JE-100269,1,2026-06-09,2026-06-09 17:07:08,1100,Accounts Receivable,Customer sales invoice,52908.73,0,j.smith,fin.manager,Automated
+JE-100269,2,2026-06-09,2026-06-09 17:07:08,4000,Revenue,Customer sales invoice,0,52908.73,j.smith,fin.manager,Automated
+JE-100270,1,2026-02-06,2026-02-06 11:38:32,6000,Payroll Expense,Payroll run,41991.45,0,r.chen,cfo,Automated
+JE-100270,2,2026-02-06,2026-02-06 11:38:32,1000,Cash,Payroll run,0,41991.45,r.chen,cfo,Automated
+JE-100271,1,2026-02-05,2026-02-05 13:51:30,6400,Professional Fees,Consulting services invoice,141.09,0,s.patel,cfo,Automated
+JE-100271,2,2026-02-05,2026-02-05 13:51:30,2000,Accounts Payable,Consulting services invoice,0,141.09,s.patel,cfo,Automated
+JE-100272,1,2026-03-23,2026-03-23 10:25:39,1200,Inventory,Inventory purchase,289.25,0,d.wilson,,Automated
+JE-100272,2,2026-03-23,2026-03-23 10:25:39,2000,Accounts Payable,Inventory purchase,0,289.25,d.wilson,,Automated
+JE-100273,1,2026-05-11,2026-05-11 16:31:45,1500,Fixed Assets,Equipment purchase,1288.35,0,s.patel,controller,Automated
+JE-100273,2,2026-05-11,2026-05-11 16:31:45,1000,Cash,Equipment purchase,0,1288.35,s.patel,controller,Automated
+JE-100274,1,2026-01-29,2026-01-29 14:37:19,6000,Payroll Expense,Payroll run,1239.06,0,k.nguyen,,Automated
+JE-100274,2,2026-01-29,2026-01-29 14:37:19,1000,Cash,Payroll run,0,1239.06,k.nguyen,,Automated
+JE-100275,1,2026-03-09,2026-03-09 17:36:14,6400,Professional Fees,Consulting services invoice,9328.28,0,d.wilson,fin.manager,Automated
+JE-100275,2,2026-03-09,2026-03-09 17:36:14,2000,Accounts Payable,Consulting services invoice,0,9328.28,d.wilson,fin.manager,Automated
+JE-100276,1,2026-06-08,2026-06-08 14:09:52,6200,Utilities,Electricity and water,5369.91,0,d.wilson,cfo,Automated
+JE-100276,2,2026-06-08,2026-06-08 14:09:52,2000,Accounts Payable,Electricity and water,0,5369.91,d.wilson,cfo,Automated
+JE-100277,1,2026-04-23,2026-04-23 13:26:09,6100,Rent Expense,Monthly office rent,426.18,0,r.chen,,Automated
+JE-100277,2,2026-04-23,2026-04-23 13:26:09,1000,Cash,Monthly office rent,0,426.18,r.chen,,Automated
+JE-100278,1,2026-05-01,2026-05-01 08:45:08,6300,Travel and Entertainment,Employee travel reimbursement,4529.02,0,s.patel,fin.manager,Automated
+JE-100278,2,2026-05-01,2026-05-01 08:45:08,2000,Accounts Payable,Employee travel reimbursement,0,4529.02,s.patel,fin.manager,Automated
+JE-100279,1,2026-04-28,2026-04-28 16:21:34,6500,Marketing,Advertising campaign,5420.94,0,m.lopez,,Automated
+JE-100279,2,2026-04-28,2026-04-28 16:21:34,2000,Accounts Payable,Advertising campaign,0,5420.94,m.lopez,,Automated
+JE-100280,1,2026-02-19,2026-02-19 11:17:35,1100,Accounts Receivable,Customer sales invoice,10309.86,0,m.lopez,controller,Automated
+JE-100280,2,2026-02-19,2026-02-19 11:17:35,4000,Revenue,Customer sales invoice,0,10309.86,m.lopez,controller,Automated
+JE-100281,1,2026-06-30,2026-06-30 11:44:45,1100,Accounts Receivable,Customer sales invoice,35065.1,0,r.chen,fin.manager,Automated
+JE-100281,2,2026-06-30,2026-06-30 11:44:45,4000,Revenue,Customer sales invoice,0,35065.1,r.chen,fin.manager,Automated
+JE-100282,1,2026-03-12,2026-03-12 12:07:36,6500,Marketing,Advertising campaign,1415.96,0,d.wilson,fin.manager,Automated
+JE-100282,2,2026-03-12,2026-03-12 12:07:36,2000,Accounts Payable,Advertising campaign,0,1415.96,d.wilson,fin.manager,Automated
+JE-100283,1,2026-03-16,2026-03-16 08:18:45,6000,Payroll Expense,Payroll run,141321.83,0,j.smith,fin.manager,Automated
+JE-100283,2,2026-03-16,2026-03-16 08:18:45,1000,Cash,Payroll run,0,141321.83,j.smith,fin.manager,Automated
+JE-100284,1,2026-02-24,2026-02-24 11:52:34,6500,Marketing,Advertising campaign,14611.94,0,m.lopez,cfo,Automated
+JE-100284,2,2026-02-24,2026-02-24 11:52:34,2000,Accounts Payable,Advertising campaign,0,14611.94,m.lopez,cfo,Automated
+JE-100285,1,2026-03-03,2026-03-03 11:03:42,1100,Accounts Receivable,Customer sales invoice,283.79,0,s.patel,controller,Automated
+JE-100285,2,2026-03-03,2026-03-03 11:03:42,4000,Revenue,Customer sales invoice,0,283.79,s.patel,controller,Automated
+JE-100286,1,2026-03-26,2026-03-26 15:06:43,6400,Professional Fees,Consulting services invoice,214.12,0,k.nguyen,cfo,Automated
+JE-100286,2,2026-03-26,2026-03-26 15:06:43,2000,Accounts Payable,Consulting services invoice,0,214.12,k.nguyen,cfo,Automated
+JE-100287,1,2026-06-16,2026-06-16 11:48:18,6200,Utilities,Electricity and water,2201.88,0,m.lopez,controller,Automated
+JE-100287,2,2026-06-16,2026-06-16 11:48:18,2000,Accounts Payable,Electricity and water,0,2201.88,m.lopez,controller,Automated
+JE-100288,1,2026-04-17,2026-04-17 10:59:58,6100,Rent Expense,Monthly office rent,14209.73,0,j.smith,fin.manager,Automated
+JE-100288,2,2026-04-17,2026-04-17 10:59:58,1000,Cash,Monthly office rent,0,14209.73,j.smith,fin.manager,Automated
+JE-100289,1,2026-03-16,2026-03-16 08:00:19,6500,Marketing,Advertising campaign,411.93,0,s.patel,,Automated
+JE-100289,2,2026-03-16,2026-03-16 08:00:19,2000,Accounts Payable,Advertising campaign,0,411.93,s.patel,,Automated
+JE-100290,1,2026-05-20,2026-05-20 16:31:56,6000,Payroll Expense,Payroll run,869.07,0,a.khan,,Automated
+JE-100290,2,2026-05-20,2026-05-20 16:31:56,1000,Cash,Payroll run,0,869.07,a.khan,,Automated
+JE-100291,1,2026-01-29,2026-01-29 13:10:46,6500,Marketing,Advertising campaign,794.99,0,r.chen,,Automated
+JE-100291,2,2026-01-29,2026-01-29 13:10:46,2000,Accounts Payable,Advertising campaign,0,794.99,r.chen,,Automated
+JE-100292,1,2026-03-17,2026-03-17 17:43:48,6200,Utilities,Electricity and water,111.3,0,a.khan,cfo,Automated
+JE-100292,2,2026-03-17,2026-03-17 17:43:48,2000,Accounts Payable,Electricity and water,0,111.3,a.khan,cfo,Automated
+JE-100293,1,2026-05-12,2026-05-12 13:05:25,6300,Travel and Entertainment,Employee travel reimbursement,53587.86,0,d.wilson,controller,Automated
+JE-100293,2,2026-05-12,2026-05-12 13:05:25,2000,Accounts Payable,Employee travel reimbursement,0,53587.86,d.wilson,controller,Automated
+JE-100294,1,2026-03-24,2026-03-24 11:00:16,6200,Utilities,Electricity and water,173604.56,0,r.chen,controller,Automated
+JE-100294,2,2026-03-24,2026-03-24 11:00:16,2000,Accounts Payable,Electricity and water,0,173604.56,r.chen,controller,Automated
+JE-100295,1,2026-03-26,2026-03-26 12:37:46,6500,Marketing,Advertising campaign,30718.28,0,s.patel,controller,Automated
+JE-100295,2,2026-03-26,2026-03-26 12:37:46,2000,Accounts Payable,Advertising campaign,0,30718.28,s.patel,controller,Automated
+JE-100296,1,2026-03-02,2026-03-02 08:42:07,1100,Accounts Receivable,Customer sales invoice,14360.02,0,r.chen,fin.manager,Automated
+JE-100296,2,2026-03-02,2026-03-02 08:42:07,4000,Revenue,Customer sales invoice,0,14360.02,r.chen,fin.manager,Automated
+JE-100297,1,2026-06-30,2026-06-30 12:44:07,6200,Utilities,Electricity and water,2177.08,0,d.wilson,,Automated
+JE-100297,2,2026-06-30,2026-06-30 12:44:07,2000,Accounts Payable,Electricity and water,0,2177.08,d.wilson,,Automated
+JE-100298,1,2026-02-26,2026-02-26 11:08:30,1100,Accounts Receivable,Customer sales invoice,1632.66,0,a.khan,cfo,Automated
+JE-100298,2,2026-02-26,2026-02-26 11:08:30,4000,Revenue,Customer sales invoice,0,1632.66,a.khan,cfo,Automated
+JE-100299,1,2026-05-21,2026-05-21 15:48:34,6000,Payroll Expense,Payroll run,2356.63,0,k.nguyen,,Automated
+JE-100299,2,2026-05-21,2026-05-21 15:48:34,1000,Cash,Payroll run,0,2356.63,k.nguyen,,Automated
+JE-100300,1,2026-06-24,2026-06-24 17:55:50,5000,Cost of Goods Sold,Cost of goods sold,32669.07,0,j.smith,cfo,Automated
+JE-100300,2,2026-06-24,2026-06-24 17:55:50,1200,Inventory,Cost of goods sold,0,32669.07,j.smith,cfo,Automated
+JE-100301,1,2026-04-03,2026-04-03 09:58:36,6500,Marketing,Advertising campaign,5533.14,0,j.smith,cfo,Automated
+JE-100301,2,2026-04-03,2026-04-03 09:58:36,2000,Accounts Payable,Advertising campaign,0,5533.14,j.smith,cfo,Automated
+JE-100302,1,2026-05-18,2026-05-18 10:10:20,1200,Inventory,Inventory purchase,464.64,0,k.nguyen,controller,Automated
+JE-100302,2,2026-05-18,2026-05-18 10:10:20,2000,Accounts Payable,Inventory purchase,0,464.64,k.nguyen,controller,Automated
+JE-100303,1,2026-05-06,2026-05-06 09:57:32,5000,Cost of Goods Sold,Cost of goods sold,23218.24,0,r.chen,controller,Automated
+JE-100303,2,2026-05-06,2026-05-06 09:57:32,1200,Inventory,Cost of goods sold,0,23218.24,r.chen,controller,Automated
+JE-100304,1,2026-04-17,2026-04-17 15:36:03,6500,Marketing,Advertising campaign,272.53,0,s.patel,fin.manager,Automated
+JE-100304,2,2026-04-17,2026-04-17 15:36:03,2000,Accounts Payable,Advertising campaign,0,272.53,s.patel,fin.manager,Automated
+JE-100305,1,2026-01-01,2026-01-01 11:37:04,6400,Professional Fees,Consulting services invoice,2025.96,0,j.smith,cfo,Automated
+JE-100305,2,2026-01-01,2026-01-01 11:37:04,2000,Accounts Payable,Consulting services invoice,0,2025.96,j.smith,cfo,Automated
+JE-100306,1,2026-01-16,2026-01-16 09:59:30,6100,Rent Expense,Monthly office rent,6107.16,0,j.smith,controller,Automated
+JE-100306,2,2026-01-16,2026-01-16 09:59:30,1000,Cash,Monthly office rent,0,6107.16,j.smith,controller,Automated
+JE-100307,1,2026-06-15,2026-06-15 14:23:57,6200,Utilities,Electricity and water,33669.09,0,r.chen,fin.manager,Automated
+JE-100307,2,2026-06-15,2026-06-15 14:23:57,2000,Accounts Payable,Electricity and water,0,33669.09,r.chen,fin.manager,Automated
+JE-100308,1,2026-06-24,2026-06-24 16:08:41,6300,Travel and Entertainment,Employee travel reimbursement,1736.32,0,k.nguyen,controller,Automated
+JE-100308,2,2026-06-24,2026-06-24 16:08:41,2000,Accounts Payable,Employee travel reimbursement,0,1736.32,k.nguyen,controller,Automated
+JE-100309,1,2026-02-02,2026-02-02 11:53:00,1200,Inventory,Inventory purchase,1981.95,0,k.nguyen,fin.manager,Automated
+JE-100309,2,2026-02-02,2026-02-02 11:53:00,2000,Accounts Payable,Inventory purchase,0,1981.95,k.nguyen,fin.manager,Automated
+JE-100310,1,2026-05-20,2026-05-20 14:34:24,6500,Marketing,Advertising campaign,16693.58,0,k.nguyen,controller,Automated
+JE-100310,2,2026-05-20,2026-05-20 14:34:24,2000,Accounts Payable,Advertising campaign,0,16693.58,k.nguyen,controller,Automated
+JE-100311,1,2026-02-09,2026-02-09 12:12:59,5000,Cost of Goods Sold,Cost of goods sold,3311.79,0,d.wilson,,Automated
+JE-100311,2,2026-02-09,2026-02-09 12:12:59,1200,Inventory,Cost of goods sold,0,3311.79,d.wilson,,Automated
+JE-100312,1,2026-01-05,2026-01-05 11:13:04,6400,Professional Fees,Consulting services invoice,46911.36,0,j.smith,cfo,Automated
+JE-100312,2,2026-01-05,2026-01-05 11:13:04,2000,Accounts Payable,Consulting services invoice,0,46911.36,j.smith,cfo,Automated
+JE-100313,1,2026-06-22,2026-06-22 08:15:47,6400,Professional Fees,Consulting services invoice,2973.41,0,j.smith,controller,Automated
+JE-100313,2,2026-06-22,2026-06-22 08:15:47,2000,Accounts Payable,Consulting services invoice,0,2973.41,j.smith,controller,Automated
+JE-100314,1,2026-01-15,2026-01-15 10:32:18,1200,Inventory,Inventory purchase,521.18,0,a.khan,,Automated
+JE-100314,2,2026-01-15,2026-01-15 10:32:18,2000,Accounts Payable,Inventory purchase,0,521.18,a.khan,,Automated
+JE-100315,1,2026-06-03,2026-06-03 13:15:19,1500,Fixed Assets,Equipment purchase,1128.19,0,a.khan,,Automated
+JE-100315,2,2026-06-03,2026-06-03 13:15:19,1000,Cash,Equipment purchase,0,1128.19,a.khan,,Automated
+JE-100316,1,2026-03-18,2026-03-18 12:03:35,1200,Inventory,Inventory purchase,536.34,0,s.patel,,Automated
+JE-100316,2,2026-03-18,2026-03-18 12:03:35,2000,Accounts Payable,Inventory purchase,0,536.34,s.patel,,Automated
+JE-100317,1,2026-04-20,2026-04-20 16:31:03,6200,Utilities,Electricity and water,11635.29,0,m.lopez,cfo,Automated
+JE-100317,2,2026-04-20,2026-04-20 16:31:03,2000,Accounts Payable,Electricity and water,0,11635.29,m.lopez,cfo,Automated
+JE-100318,1,2026-03-23,2026-03-23 14:26:09,6300,Travel and Entertainment,Employee travel reimbursement,39188.19,0,m.lopez,fin.manager,Automated
+JE-100318,2,2026-03-23,2026-03-23 14:26:09,2000,Accounts Payable,Employee travel reimbursement,0,39188.19,m.lopez,fin.manager,Automated
+JE-100319,1,2026-03-03,2026-03-03 11:19:54,6200,Utilities,Electricity and water,30872.59,0,d.wilson,controller,Automated
+JE-100319,2,2026-03-03,2026-03-03 11:19:54,2000,Accounts Payable,Electricity and water,0,30872.59,d.wilson,controller,Automated
+JE-100320,1,2026-04-16,2026-04-16 14:35:33,6500,Marketing,Advertising campaign,104386.87,0,a.khan,fin.manager,Automated
+JE-100320,2,2026-04-16,2026-04-16 14:35:33,2000,Accounts Payable,Advertising campaign,0,104386.87,a.khan,fin.manager,Automated
+JE-100321,1,2026-03-26,2026-03-26 09:59:28,5000,Cost of Goods Sold,Cost of goods sold,694.2,0,k.nguyen,cfo,Automated
+JE-100321,2,2026-03-26,2026-03-26 09:59:28,1200,Inventory,Cost of goods sold,0,694.2,k.nguyen,cfo,Automated
+JE-100322,1,2026-04-07,2026-04-07 17:38:02,5000,Cost of Goods Sold,Cost of goods sold,147.93,0,k.nguyen,cfo,Automated
+JE-100322,2,2026-04-07,2026-04-07 17:38:02,1200,Inventory,Cost of goods sold,0,147.93,k.nguyen,cfo,Automated
+JE-100323,1,2026-02-23,2026-02-23 13:19:58,1200,Inventory,Inventory purchase,520.18,0,j.smith,controller,Automated
+JE-100323,2,2026-02-23,2026-02-23 13:19:58,2000,Accounts Payable,Inventory purchase,0,520.18,j.smith,controller,Automated
+JE-100324,1,2026-03-04,2026-03-04 17:45:13,6100,Rent Expense,Monthly office rent,29154.22,0,r.chen,controller,Automated
+JE-100324,2,2026-03-04,2026-03-04 17:45:13,1000,Cash,Monthly office rent,0,29154.22,r.chen,controller,Automated
+JE-100325,1,2026-04-08,2026-04-08 15:34:41,1200,Inventory,Inventory purchase,1151.67,0,m.lopez,fin.manager,Automated
+JE-100325,2,2026-04-08,2026-04-08 15:34:41,2000,Accounts Payable,Inventory purchase,0,1151.67,m.lopez,fin.manager,Automated
+JE-100326,1,2026-04-30,2026-04-30 09:51:46,1200,Inventory,Inventory purchase,81899.16,0,r.chen,fin.manager,Automated
+JE-100326,2,2026-04-30,2026-04-30 09:51:46,2000,Accounts Payable,Inventory purchase,0,81899.16,r.chen,fin.manager,Automated
+JE-100327,1,2026-04-16,2026-04-16 08:36:55,5000,Cost of Goods Sold,Cost of goods sold,1672.35,0,a.khan,,Automated
+JE-100327,2,2026-04-16,2026-04-16 08:36:55,1200,Inventory,Cost of goods sold,0,1672.35,a.khan,,Automated
+JE-100328,1,2026-05-29,2026-05-29 14:18:09,6400,Professional Fees,Consulting services invoice,725.36,0,a.khan,fin.manager,Automated
+JE-100328,2,2026-05-29,2026-05-29 14:18:09,2000,Accounts Payable,Consulting services invoice,0,725.36,a.khan,fin.manager,Automated
+JE-100329,1,2026-05-08,2026-05-08 16:41:43,1500,Fixed Assets,Equipment purchase,56246.69,0,m.lopez,fin.manager,Automated
+JE-100329,2,2026-05-08,2026-05-08 16:41:43,1000,Cash,Equipment purchase,0,56246.69,m.lopez,fin.manager,Automated
+JE-100330,1,2026-05-06,2026-05-06 15:10:46,6500,Marketing,Advertising campaign,154695.36,0,k.nguyen,fin.manager,Automated
+JE-100330,2,2026-05-06,2026-05-06 15:10:46,2000,Accounts Payable,Advertising campaign,0,154695.36,k.nguyen,fin.manager,Automated
+JE-100331,1,2026-05-20,2026-05-20 15:11:58,6200,Utilities,Electricity and water,289.64,0,s.patel,,Automated
+JE-100331,2,2026-05-20,2026-05-20 15:11:58,2000,Accounts Payable,Electricity and water,0,289.64,s.patel,,Automated
+JE-100332,1,2026-01-20,2026-01-20 08:48:00,6400,Professional Fees,Consulting services invoice,5358.17,0,r.chen,cfo,Automated
+JE-100332,2,2026-01-20,2026-01-20 08:48:00,2000,Accounts Payable,Consulting services invoice,0,5358.17,r.chen,cfo,Automated
+JE-100333,1,2026-02-25,2026-02-25 16:29:23,5000,Cost of Goods Sold,Cost of goods sold,167.61,0,j.smith,,Automated
+JE-100333,2,2026-02-25,2026-02-25 16:29:23,1200,Inventory,Cost of goods sold,0,167.61,j.smith,,Automated
+JE-100334,1,2026-06-18,2026-06-18 15:01:00,1500,Fixed Assets,Equipment purchase,102820.52,0,s.patel,cfo,Automated
+JE-100334,2,2026-06-18,2026-06-18 15:01:00,1000,Cash,Equipment purchase,0,102820.52,s.patel,cfo,Automated
+JE-100335,1,2026-03-12,2026-03-12 16:18:01,6300,Travel and Entertainment,Employee travel reimbursement,109.42,0,s.patel,,Automated
+JE-100335,2,2026-03-12,2026-03-12 16:18:01,2000,Accounts Payable,Employee travel reimbursement,0,109.42,s.patel,,Automated
+JE-100336,1,2026-01-28,2026-01-28 09:33:09,6300,Travel and Entertainment,Employee travel reimbursement,45746.03,0,a.khan,controller,Automated
+JE-100336,2,2026-01-28,2026-01-28 09:33:09,2000,Accounts Payable,Employee travel reimbursement,0,45746.03,a.khan,controller,Automated
+JE-100337,1,2026-04-01,2026-04-01 12:50:25,1500,Fixed Assets,Equipment purchase,5461.41,0,j.smith,fin.manager,Automated
+JE-100337,2,2026-04-01,2026-04-01 12:50:25,1000,Cash,Equipment purchase,0,5461.41,j.smith,fin.manager,Automated
+JE-100338,1,2026-02-27,2026-02-27 12:43:52,6500,Marketing,Advertising campaign,7319.93,0,k.nguyen,cfo,Automated
+JE-100338,2,2026-02-27,2026-02-27 12:43:52,2000,Accounts Payable,Advertising campaign,0,7319.93,k.nguyen,cfo,Automated
+JE-100339,1,2026-04-08,2026-04-08 14:35:30,6400,Professional Fees,Consulting services invoice,203.49,0,j.smith,,Automated
+JE-100339,2,2026-04-08,2026-04-08 14:35:30,2000,Accounts Payable,Consulting services invoice,0,203.49,j.smith,,Automated
+JE-100340,1,2026-04-22,2026-04-22 13:36:54,6200,Utilities,Electricity and water,187.44,0,j.smith,,Automated
+JE-100340,2,2026-04-22,2026-04-22 13:36:54,2000,Accounts Payable,Electricity and water,0,187.44,j.smith,,Automated
+JE-100341,1,2026-05-26,2026-05-26 15:17:02,6400,Professional Fees,Consulting services invoice,573.1,0,j.smith,,Automated
+JE-100341,2,2026-05-26,2026-05-26 15:17:02,2000,Accounts Payable,Consulting services invoice,0,573.1,j.smith,,Automated
+JE-100342,1,2026-05-25,2026-05-25 08:11:59,1100,Accounts Receivable,Customer sales invoice,92838.57,0,k.nguyen,fin.manager,Automated
+JE-100342,2,2026-05-25,2026-05-25 08:11:59,4000,Revenue,Customer sales invoice,0,92838.57,k.nguyen,fin.manager,Automated
+JE-100343,1,2026-02-06,2026-02-06 14:59:04,6400,Professional Fees,Consulting services invoice,148884.1,0,m.lopez,controller,Automated
+JE-100343,2,2026-02-06,2026-02-06 14:59:04,2000,Accounts Payable,Consulting services invoice,0,148884.1,m.lopez,controller,Automated
+JE-100344,1,2026-04-10,2026-04-10 16:21:24,1500,Fixed Assets,Equipment purchase,621.67,0,k.nguyen,,Automated
+JE-100344,2,2026-04-10,2026-04-10 16:21:24,1000,Cash,Equipment purchase,0,621.67,k.nguyen,,Automated
+JE-100345,1,2026-03-30,2026-03-30 08:06:27,6100,Rent Expense,Monthly office rent,4493.83,0,a.khan,,Automated
+JE-100345,2,2026-03-30,2026-03-30 08:06:27,1000,Cash,Monthly office rent,0,4493.83,a.khan,,Automated
+JE-100346,1,2026-06-02,2026-06-02 14:49:20,6000,Payroll Expense,Payroll run,9932.46,0,j.smith,,Automated
+JE-100346,2,2026-06-02,2026-06-02 14:49:20,1000,Cash,Payroll run,0,9932.46,j.smith,,Automated
+JE-100347,1,2026-04-02,2026-04-02 16:24:27,6500,Marketing,Advertising campaign,4159.02,0,a.khan,,Automated
+JE-100347,2,2026-04-02,2026-04-02 16:24:27,2000,Accounts Payable,Advertising campaign,0,4159.02,a.khan,,Automated
+JE-100348,1,2026-06-08,2026-06-08 12:51:15,6300,Travel and Entertainment,Employee travel reimbursement,191.77,0,d.wilson,fin.manager,Automated
+JE-100348,2,2026-06-08,2026-06-08 12:51:15,2000,Accounts Payable,Employee travel reimbursement,0,191.77,d.wilson,fin.manager,Automated
+JE-100349,1,2026-06-12,2026-06-12 10:47:24,6200,Utilities,Electricity and water,1794.73,0,m.lopez,controller,Automated
+JE-100349,2,2026-06-12,2026-06-12 10:47:24,2000,Accounts Payable,Electricity and water,0,1794.73,m.lopez,controller,Automated
+JE-100350,1,2026-04-24,2026-04-24 13:48:17,6400,Professional Fees,Consulting services invoice,129350.69,0,j.smith,controller,Automated
+JE-100350,2,2026-04-24,2026-04-24 13:48:17,2000,Accounts Payable,Consulting services invoice,0,129350.69,j.smith,controller,Automated
+JE-100351,1,2026-05-12,2026-05-12 14:06:01,6100,Rent Expense,Monthly office rent,415.33,0,j.smith,controller,Automated
+JE-100351,2,2026-05-12,2026-05-12 14:06:01,1000,Cash,Monthly office rent,0,415.33,j.smith,controller,Automated
+JE-100352,1,2026-03-25,2026-03-25 14:00:18,1500,Fixed Assets,Equipment purchase,9409.02,0,r.chen,controller,Automated
+JE-100352,2,2026-03-25,2026-03-25 14:00:18,1000,Cash,Equipment purchase,0,9409.02,r.chen,controller,Automated
+JE-100353,1,2026-03-04,2026-03-04 17:33:10,1200,Inventory,Inventory purchase,97092.35,0,d.wilson,fin.manager,Automated
+JE-100353,2,2026-03-04,2026-03-04 17:33:10,2000,Accounts Payable,Inventory purchase,0,97092.35,d.wilson,fin.manager,Automated
+JE-100354,1,2026-03-19,2026-03-19 12:31:09,6200,Utilities,Electricity and water,287.19,0,j.smith,fin.manager,Automated
+JE-100354,2,2026-03-19,2026-03-19 12:31:09,2000,Accounts Payable,Electricity and water,0,287.19,j.smith,fin.manager,Automated
+JE-100355,1,2026-01-20,2026-01-20 13:16:15,6300,Travel and Entertainment,Employee travel reimbursement,975.4,0,d.wilson,,Automated
+JE-100355,2,2026-01-20,2026-01-20 13:16:15,2000,Accounts Payable,Employee travel reimbursement,0,975.4,d.wilson,,Automated
+JE-100356,1,2026-04-28,2026-04-28 09:08:19,1500,Fixed Assets,Equipment purchase,10839.44,0,j.smith,fin.manager,Automated
+JE-100356,2,2026-04-28,2026-04-28 09:08:19,1000,Cash,Equipment purchase,0,10839.44,j.smith,fin.manager,Automated
+JE-100357,1,2026-04-08,2026-04-08 13:28:21,6000,Payroll Expense,Payroll run,59885.84,0,r.chen,cfo,Automated
+JE-100357,2,2026-04-08,2026-04-08 13:28:21,1000,Cash,Payroll run,0,59885.84,r.chen,cfo,Automated
+JE-100358,1,2026-03-24,2026-03-24 17:44:12,1500,Fixed Assets,Equipment purchase,281.33,0,r.chen,fin.manager,Automated
+JE-100358,2,2026-03-24,2026-03-24 17:44:12,1000,Cash,Equipment purchase,0,281.33,r.chen,fin.manager,Automated
+JE-100359,1,2026-06-12,2026-06-12 15:36:50,6000,Payroll Expense,Payroll run,915.75,0,a.khan,fin.manager,Automated
+JE-100359,2,2026-06-12,2026-06-12 15:36:50,1000,Cash,Payroll run,0,915.75,a.khan,fin.manager,Automated
+JE-100360,1,2026-05-25,2026-05-25 11:37:34,6300,Travel and Entertainment,Employee travel reimbursement,1601.59,0,a.khan,,Automated
+JE-100360,2,2026-05-25,2026-05-25 11:37:34,2000,Accounts Payable,Employee travel reimbursement,0,1601.59,a.khan,,Automated
+JE-100361,1,2026-04-29,2026-04-29 11:28:51,1200,Inventory,Inventory purchase,122.69,0,m.lopez,,Automated
+JE-100361,2,2026-04-29,2026-04-29 11:28:51,2000,Accounts Payable,Inventory purchase,0,122.69,m.lopez,,Automated
+JE-100362,1,2026-04-15,2026-04-15 15:08:40,6100,Rent Expense,Monthly office rent,50418.09,0,m.lopez,controller,Automated
+JE-100362,2,2026-04-15,2026-04-15 15:08:40,1000,Cash,Monthly office rent,0,50418.09,m.lopez,controller,Automated
+JE-100363,1,2026-04-07,2026-04-07 09:28:38,1100,Accounts Receivable,Customer sales invoice,14913.78,0,r.chen,cfo,Automated
+JE-100363,2,2026-04-07,2026-04-07 09:28:38,4000,Revenue,Customer sales invoice,0,14913.78,r.chen,cfo,Automated
+JE-100364,1,2026-05-20,2026-05-20 08:50:23,6300,Travel and Entertainment,Employee travel reimbursement,5799.79,0,d.wilson,,Automated
+JE-100364,2,2026-05-20,2026-05-20 08:50:23,2000,Accounts Payable,Employee travel reimbursement,0,5799.79,d.wilson,,Automated
+JE-100365,1,2026-01-22,2026-01-22 09:49:15,1200,Inventory,Inventory purchase,9111.83,0,d.wilson,,Automated
+JE-100365,2,2026-01-22,2026-01-22 09:49:15,2000,Accounts Payable,Inventory purchase,0,9111.83,d.wilson,,Automated
+JE-100366,1,2026-01-12,2026-01-12 17:41:43,6200,Utilities,Electricity and water,13648.96,0,d.wilson,fin.manager,Automated
+JE-100366,2,2026-01-12,2026-01-12 17:41:43,2000,Accounts Payable,Electricity and water,0,13648.96,d.wilson,fin.manager,Automated
+JE-100367,1,2026-04-21,2026-04-21 09:00:06,6000,Payroll Expense,Payroll run,153767.79,0,m.lopez,controller,Automated
+JE-100367,2,2026-04-21,2026-04-21 09:00:06,1000,Cash,Payroll run,0,153767.79,m.lopez,controller,Automated
+JE-100368,1,2026-05-29,2026-05-29 17:14:28,1200,Inventory,Inventory purchase,29148.42,0,m.lopez,fin.manager,Automated
+JE-100368,2,2026-05-29,2026-05-29 17:14:28,2000,Accounts Payable,Inventory purchase,0,29148.42,m.lopez,fin.manager,Automated
+JE-100369,1,2026-06-26,2026-06-26 16:09:22,6500,Marketing,Advertising campaign,35377.68,0,j.smith,fin.manager,Automated
+JE-100369,2,2026-06-26,2026-06-26 16:09:22,2000,Accounts Payable,Advertising campaign,0,35377.68,j.smith,fin.manager,Automated
+JE-100370,1,2026-01-22,2026-01-22 09:53:46,6100,Rent Expense,Monthly office rent,943.9,0,a.khan,fin.manager,Automated
+JE-100370,2,2026-01-22,2026-01-22 09:53:46,1000,Cash,Monthly office rent,0,943.9,a.khan,fin.manager,Automated
+JE-100371,1,2026-05-14,2026-05-14 15:22:30,6500,Marketing,Advertising campaign,38733.88,0,j.smith,fin.manager,Automated
+JE-100371,2,2026-05-14,2026-05-14 15:22:30,2000,Accounts Payable,Advertising campaign,0,38733.88,j.smith,fin.manager,Automated
+JE-100372,1,2026-03-18,2026-03-18 08:51:45,6500,Marketing,Advertising campaign,1128.24,0,j.smith,fin.manager,Automated
+JE-100372,2,2026-03-18,2026-03-18 08:51:45,2000,Accounts Payable,Advertising campaign,0,1128.24,j.smith,fin.manager,Automated
+JE-100373,1,2026-02-12,2026-02-12 11:33:11,6100,Rent Expense,Monthly office rent,17161.68,0,s.patel,controller,Automated
+JE-100373,2,2026-02-12,2026-02-12 11:33:11,1000,Cash,Monthly office rent,0,17161.68,s.patel,controller,Automated
+JE-100374,1,2026-04-29,2026-04-29 11:51:25,6000,Payroll Expense,Payroll run,7038.85,0,d.wilson,cfo,Automated
+JE-100374,2,2026-04-29,2026-04-29 11:51:25,1000,Cash,Payroll run,0,7038.85,d.wilson,cfo,Automated
+JE-100375,1,2026-02-20,2026-02-20 15:37:27,6300,Travel and Entertainment,Employee travel reimbursement,2020.33,0,r.chen,controller,Automated
+JE-100375,2,2026-02-20,2026-02-20 15:37:27,2000,Accounts Payable,Employee travel reimbursement,0,2020.33,r.chen,controller,Automated
+JE-100376,1,2026-06-30,2026-06-30 09:36:06,5000,Cost of Goods Sold,Cost of goods sold,828.97,0,k.nguyen,,Automated
+JE-100376,2,2026-06-30,2026-06-30 09:36:06,1200,Inventory,Cost of goods sold,0,828.97,k.nguyen,,Automated
+JE-100377,1,2026-02-20,2026-02-20 15:07:16,6200,Utilities,Electricity and water,1611.08,0,d.wilson,,Automated
+JE-100377,2,2026-02-20,2026-02-20 15:07:16,2000,Accounts Payable,Electricity and water,0,1611.08,d.wilson,,Automated
+JE-100378,1,2026-06-02,2026-06-02 14:39:25,1200,Inventory,Inventory purchase,154001.21,0,s.patel,controller,Automated
+JE-100378,2,2026-06-02,2026-06-02 14:39:25,2000,Accounts Payable,Inventory purchase,0,154001.21,s.patel,controller,Automated
+JE-100379,1,2026-04-28,2026-04-28 17:11:52,6000,Payroll Expense,Payroll run,1450.61,0,d.wilson,,Automated
+JE-100379,2,2026-04-28,2026-04-28 17:11:52,1000,Cash,Payroll run,0,1450.61,d.wilson,,Automated
+JE-100380,1,2026-06-01,2026-06-01 09:43:08,1100,Accounts Receivable,Customer sales invoice,107560.43,0,m.lopez,controller,Automated
+JE-100380,2,2026-06-01,2026-06-01 09:43:08,4000,Revenue,Customer sales invoice,0,107560.43,m.lopez,controller,Automated
+JE-100381,1,2026-02-16,2026-02-16 13:44:09,5000,Cost of Goods Sold,Cost of goods sold,1018.01,0,s.patel,cfo,Automated
+JE-100381,2,2026-02-16,2026-02-16 13:44:09,1200,Inventory,Cost of goods sold,0,1018.01,s.patel,cfo,Automated
+JE-100382,1,2026-02-17,2026-02-17 15:40:34,6200,Utilities,Electricity and water,7886.06,0,d.wilson,,Automated
+JE-100382,2,2026-02-17,2026-02-17 15:40:34,2000,Accounts Payable,Electricity and water,0,7886.06,d.wilson,,Automated
+JE-100383,1,2026-05-06,2026-05-06 12:08:11,6200,Utilities,Electricity and water,6779.72,0,m.lopez,,Automated
+JE-100383,2,2026-05-06,2026-05-06 12:08:11,2000,Accounts Payable,Electricity and water,0,6779.72,m.lopez,,Automated
+JE-100384,1,2026-04-02,2026-04-02 08:31:08,1500,Fixed Assets,Equipment purchase,150.29,0,a.khan,,Automated
+JE-100384,2,2026-04-02,2026-04-02 08:31:08,1000,Cash,Equipment purchase,0,150.29,a.khan,,Automated
+JE-100385,1,2026-05-07,2026-05-07 14:43:31,1200,Inventory,Inventory purchase,4655.28,0,r.chen,,Automated
+JE-100385,2,2026-05-07,2026-05-07 14:43:31,2000,Accounts Payable,Inventory purchase,0,4655.28,r.chen,,Automated
+JE-100386,1,2026-01-22,2026-01-22 17:01:50,6500,Marketing,Advertising campaign,4099.29,0,k.nguyen,controller,Automated
+JE-100386,2,2026-01-22,2026-01-22 17:01:50,2000,Accounts Payable,Advertising campaign,0,4099.29,k.nguyen,controller,Automated
+JE-100387,1,2026-02-13,2026-02-13 15:36:47,1100,Accounts Receivable,Customer sales invoice,552.06,0,k.nguyen,,Automated
+JE-100387,2,2026-02-13,2026-02-13 15:36:47,4000,Revenue,Customer sales invoice,0,552.06,k.nguyen,,Automated
+JE-100388,1,2026-05-27,2026-05-27 09:17:49,1200,Inventory,Inventory purchase,4849.08,0,s.patel,,Automated
+JE-100388,2,2026-05-27,2026-05-27 09:17:49,2000,Accounts Payable,Inventory purchase,0,4849.08,s.patel,,Automated
+JE-100389,1,2026-04-23,2026-04-23 16:13:27,6000,Payroll Expense,Payroll run,6148.13,0,j.smith,,Automated
+JE-100389,2,2026-04-23,2026-04-23 16:13:27,1000,Cash,Payroll run,0,6148.13,j.smith,,Automated
+JE-100390,1,2026-01-09,2026-01-09 15:16:22,5000,Cost of Goods Sold,Cost of goods sold,960.37,0,k.nguyen,,Automated
+JE-100390,2,2026-01-09,2026-01-09 15:16:22,1200,Inventory,Cost of goods sold,0,960.37,k.nguyen,,Automated
+JE-100391,1,2026-03-02,2026-03-02 11:51:47,6500,Marketing,Advertising campaign,71690.0,0,s.patel,cfo,Automated
+JE-100391,2,2026-03-02,2026-03-02 11:51:47,2000,Accounts Payable,Advertising campaign,0,71690.0,s.patel,cfo,Automated
+JE-100392,1,2026-06-11,2026-06-11 14:10:39,6000,Payroll Expense,Payroll run,69416.18,0,a.khan,controller,Automated
+JE-100392,2,2026-06-11,2026-06-11 14:10:39,1000,Cash,Payroll run,0,69416.18,a.khan,controller,Automated
+JE-100393,1,2026-05-26,2026-05-26 13:34:17,5000,Cost of Goods Sold,Cost of goods sold,45493.95,0,s.patel,cfo,Automated
+JE-100393,2,2026-05-26,2026-05-26 13:34:17,1200,Inventory,Cost of goods sold,0,45493.95,s.patel,cfo,Automated
+JE-100394,1,2026-06-30,2026-06-30 12:18:36,6200,Utilities,Electricity and water,1169.65,0,m.lopez,,Automated
+JE-100394,2,2026-06-30,2026-06-30 12:18:36,2000,Accounts Payable,Electricity and water,0,1169.65,m.lopez,,Automated
+JE-100395,1,2026-06-23,2026-06-23 09:08:48,1200,Inventory,Inventory purchase,178694.59,0,k.nguyen,fin.manager,Automated
+JE-100395,2,2026-06-23,2026-06-23 09:08:48,2000,Accounts Payable,Inventory purchase,0,178694.59,k.nguyen,fin.manager,Automated
+JE-100396,1,2026-06-17,2026-06-17 10:44:55,6400,Professional Fees,Consulting services invoice,188453.65,0,a.khan,controller,Automated
+JE-100396,2,2026-06-17,2026-06-17 10:44:55,2000,Accounts Payable,Consulting services invoice,0,188453.65,a.khan,controller,Automated
+JE-100397,1,2026-03-05,2026-03-05 14:31:09,6200,Utilities,Electricity and water,22263.99,0,s.patel,cfo,Automated
+JE-100397,2,2026-03-05,2026-03-05 14:31:09,2000,Accounts Payable,Electricity and water,0,22263.99,s.patel,cfo,Automated
+JE-100398,1,2026-04-07,2026-04-07 15:04:40,1100,Accounts Receivable,Customer sales invoice,11797.29,0,k.nguyen,controller,Automated
+JE-100398,2,2026-04-07,2026-04-07 15:04:40,4000,Revenue,Customer sales invoice,0,11797.29,k.nguyen,controller,Automated
+JE-100399,1,2026-03-13,2026-03-13 13:29:31,6300,Travel and Entertainment,Employee travel reimbursement,5029.5,0,m.lopez,cfo,Automated
+JE-100399,2,2026-03-13,2026-03-13 13:29:31,2000,Accounts Payable,Employee travel reimbursement,0,5029.5,m.lopez,cfo,Automated
+JE-100400,1,2026-04-28,2026-04-28 13:54:04,6100,Rent Expense,Monthly office rent,25827.09,0,k.nguyen,cfo,Automated
+JE-100400,2,2026-04-28,2026-04-28 13:54:04,1000,Cash,Monthly office rent,0,25827.09,k.nguyen,cfo,Automated
+JE-100401,1,2026-04-20,2026-04-20 11:31:17,6300,Travel and Entertainment,Employee travel reimbursement,523.41,0,m.lopez,,Automated
+JE-100401,2,2026-04-20,2026-04-20 11:31:17,2000,Accounts Payable,Employee travel reimbursement,0,523.41,m.lopez,,Automated
+JE-100402,1,2026-02-03,2026-02-03 17:54:31,6000,Payroll Expense,Payroll run,6399.19,0,k.nguyen,cfo,Automated
+JE-100402,2,2026-02-03,2026-02-03 17:54:31,1000,Cash,Payroll run,0,6399.19,k.nguyen,cfo,Automated
+JE-100403,1,2026-06-10,2026-06-10 15:01:07,6400,Professional Fees,Consulting services invoice,141.78,0,k.nguyen,fin.manager,Automated
+JE-100403,2,2026-06-10,2026-06-10 15:01:07,2000,Accounts Payable,Consulting services invoice,0,141.78,k.nguyen,fin.manager,Automated
+JE-100404,1,2026-04-20,2026-04-20 11:44:58,6400,Professional Fees,Consulting services invoice,187528.03,0,a.khan,cfo,Automated
+JE-100404,2,2026-04-20,2026-04-20 11:44:58,2000,Accounts Payable,Consulting services invoice,0,187528.03,a.khan,cfo,Automated
+JE-100405,1,2026-03-12,2026-03-12 09:41:23,1100,Accounts Receivable,Customer sales invoice,334.68,0,m.lopez,cfo,Automated
+JE-100405,2,2026-03-12,2026-03-12 09:41:23,4000,Revenue,Customer sales invoice,0,334.68,m.lopez,cfo,Automated
+JE-100406,1,2026-06-10,2026-06-10 12:46:44,6200,Utilities,Electricity and water,148.22,0,k.nguyen,cfo,Automated
+JE-100406,2,2026-06-10,2026-06-10 12:46:44,2000,Accounts Payable,Electricity and water,0,148.22,k.nguyen,cfo,Automated
+JE-100407,1,2026-01-01,2026-01-01 11:30:04,6100,Rent Expense,Monthly office rent,20999.24,0,a.khan,cfo,Automated
+JE-100407,2,2026-01-01,2026-01-01 11:30:04,1000,Cash,Monthly office rent,0,20999.24,a.khan,cfo,Automated
+JE-100408,1,2026-04-24,2026-04-24 08:00:44,5000,Cost of Goods Sold,Cost of goods sold,5178.05,0,m.lopez,,Automated
+JE-100408,2,2026-04-24,2026-04-24 08:00:44,1200,Inventory,Cost of goods sold,0,5178.05,m.lopez,,Automated
+JE-100409,1,2026-01-19,2026-01-19 11:24:05,6300,Travel and Entertainment,Employee travel reimbursement,19512.02,0,d.wilson,controller,Automated
+JE-100409,2,2026-01-19,2026-01-19 11:24:05,2000,Accounts Payable,Employee travel reimbursement,0,19512.02,d.wilson,controller,Automated
+JE-100410,1,2026-03-18,2026-03-18 10:24:49,6100,Rent Expense,Monthly office rent,1081.58,0,k.nguyen,,Automated
+JE-100410,2,2026-03-18,2026-03-18 10:24:49,1000,Cash,Monthly office rent,0,1081.58,k.nguyen,,Automated
+JE-100411,1,2026-06-23,2026-06-23 10:04:33,6200,Utilities,Electricity and water,13097.89,0,s.patel,controller,Automated
+JE-100411,2,2026-06-23,2026-06-23 10:04:33,2000,Accounts Payable,Electricity and water,0,13097.89,s.patel,controller,Automated
+JE-100412,1,2026-04-23,2026-04-23 13:46:13,1500,Fixed Assets,Equipment purchase,13965.83,0,d.wilson,cfo,Automated
+JE-100412,2,2026-04-23,2026-04-23 13:46:13,1000,Cash,Equipment purchase,0,13965.83,d.wilson,cfo,Automated
+JE-100413,1,2026-06-25,2026-06-25 15:55:13,6200,Utilities,Electricity and water,108555.19,0,j.smith,controller,Automated
+JE-100413,2,2026-06-25,2026-06-25 15:55:13,2000,Accounts Payable,Electricity and water,0,108555.19,j.smith,controller,Automated
+JE-100414,1,2026-04-09,2026-04-09 13:27:20,6200,Utilities,Electricity and water,30413.8,0,k.nguyen,controller,Automated
+JE-100414,2,2026-04-09,2026-04-09 13:27:20,2000,Accounts Payable,Electricity and water,0,30413.8,k.nguyen,controller,Automated
+JE-100415,1,2026-01-22,2026-01-22 11:35:38,5000,Cost of Goods Sold,Cost of goods sold,820.34,0,s.patel,,Automated
+JE-100415,2,2026-01-22,2026-01-22 11:35:38,1200,Inventory,Cost of goods sold,0,820.34,s.patel,,Automated
+JE-100416,1,2026-06-26,2026-06-26 08:54:54,1100,Accounts Receivable,Customer sales invoice,37204.88,0,d.wilson,fin.manager,Automated
+JE-100416,2,2026-06-26,2026-06-26 08:54:54,4000,Revenue,Customer sales invoice,0,37204.88,d.wilson,fin.manager,Automated
+JE-100417,1,2026-05-11,2026-05-11 11:47:25,5000,Cost of Goods Sold,Cost of goods sold,5111.78,0,m.lopez,,Automated
+JE-100417,2,2026-05-11,2026-05-11 11:47:25,1200,Inventory,Cost of goods sold,0,5111.78,m.lopez,,Automated
+JE-100418,1,2026-01-29,2026-01-29 11:31:40,5000,Cost of Goods Sold,Cost of goods sold,4296.65,0,s.patel,controller,Automated
+JE-100418,2,2026-01-29,2026-01-29 11:31:40,1200,Inventory,Cost of goods sold,0,4296.65,s.patel,controller,Automated
+JE-100419,1,2026-02-03,2026-02-03 14:55:53,6000,Payroll Expense,Payroll run,120767.62,0,s.patel,fin.manager,Automated
+JE-100419,2,2026-02-03,2026-02-03 14:55:53,1000,Cash,Payroll run,0,120767.62,s.patel,fin.manager,Automated
+JE-100420,1,2026-05-01,2026-05-01 09:01:37,6000,Payroll Expense,Payroll run,6352.95,0,j.smith,controller,Automated
+JE-100420,2,2026-05-01,2026-05-01 09:01:37,1000,Cash,Payroll run,0,6352.95,j.smith,controller,Automated
+JE-100421,1,2026-06-10,2026-06-10 16:49:26,6400,Professional Fees,Consulting services invoice,110792.83,0,r.chen,cfo,Automated
+JE-100421,2,2026-06-10,2026-06-10 16:49:26,2000,Accounts Payable,Consulting services invoice,0,110792.83,r.chen,cfo,Automated
+JE-100422,1,2026-05-18,2026-05-18 16:39:09,6300,Travel and Entertainment,Employee travel reimbursement,187.07,0,m.lopez,controller,Automated
+JE-100422,2,2026-05-18,2026-05-18 16:39:09,2000,Accounts Payable,Employee travel reimbursement,0,187.07,m.lopez,controller,Automated
+JE-100423,1,2026-02-09,2026-02-09 16:20:25,1200,Inventory,Inventory purchase,109408.74,0,s.patel,cfo,Automated
+JE-100423,2,2026-02-09,2026-02-09 16:20:25,2000,Accounts Payable,Inventory purchase,0,109408.74,s.patel,cfo,Automated
+JE-100424,1,2026-04-22,2026-04-22 11:03:15,6100,Rent Expense,Monthly office rent,1055.75,0,j.smith,,Automated
+JE-100424,2,2026-04-22,2026-04-22 11:03:15,1000,Cash,Monthly office rent,0,1055.75,j.smith,,Automated
+JE-100425,1,2026-06-05,2026-06-05 08:19:42,6100,Rent Expense,Monthly office rent,3134.2,0,d.wilson,,Automated
+JE-100425,2,2026-06-05,2026-06-05 08:19:42,1000,Cash,Monthly office rent,0,3134.2,d.wilson,,Automated
+JE-100426,1,2026-02-05,2026-02-05 08:10:31,6200,Utilities,Electricity and water,247.83,0,m.lopez,cfo,Automated
+JE-100426,2,2026-02-05,2026-02-05 08:10:31,2000,Accounts Payable,Electricity and water,0,247.83,m.lopez,cfo,Automated
+JE-100427,1,2026-02-02,2026-02-02 12:46:56,1100,Accounts Receivable,Customer sales invoice,355.61,0,j.smith,,Automated
+JE-100427,2,2026-02-02,2026-02-02 12:46:56,4000,Revenue,Customer sales invoice,0,355.61,j.smith,,Automated
+JE-100428,1,2026-04-20,2026-04-20 12:33:04,6400,Professional Fees,Consulting services invoice,1275.08,0,m.lopez,,Automated
+JE-100428,2,2026-04-20,2026-04-20 12:33:04,2000,Accounts Payable,Consulting services invoice,0,1275.08,m.lopez,,Automated
+JE-100429,1,2026-05-08,2026-05-08 15:32:23,1500,Fixed Assets,Equipment purchase,11772.22,0,j.smith,fin.manager,Automated
+JE-100429,2,2026-05-08,2026-05-08 15:32:23,1000,Cash,Equipment purchase,0,11772.22,j.smith,fin.manager,Automated
+JE-100430,1,2026-02-10,2026-02-10 12:49:06,1500,Fixed Assets,Equipment purchase,355.39,0,s.patel,,Automated
+JE-100430,2,2026-02-10,2026-02-10 12:49:06,1000,Cash,Equipment purchase,0,355.39,s.patel,,Automated
+JE-100431,1,2026-05-11,2026-05-11 08:02:54,6100,Rent Expense,Monthly office rent,567.2,0,k.nguyen,controller,Automated
+JE-100431,2,2026-05-11,2026-05-11 08:02:54,1000,Cash,Monthly office rent,0,567.2,k.nguyen,controller,Automated
+JE-100432,1,2026-05-22,2026-05-22 14:14:20,6500,Marketing,Advertising campaign,1588.99,0,a.khan,cfo,Automated
+JE-100432,2,2026-05-22,2026-05-22 14:14:20,2000,Accounts Payable,Advertising campaign,0,1588.99,a.khan,cfo,Automated
+JE-100433,1,2026-01-20,2026-01-20 17:23:07,6000,Payroll Expense,Payroll run,785.51,0,s.patel,,Automated
+JE-100433,2,2026-01-20,2026-01-20 17:23:07,1000,Cash,Payroll run,0,785.51,s.patel,,Automated
+JE-100434,1,2026-05-13,2026-05-13 08:25:04,6400,Professional Fees,Consulting services invoice,390.69,0,r.chen,,Automated
+JE-100434,2,2026-05-13,2026-05-13 08:25:04,2000,Accounts Payable,Consulting services invoice,0,390.69,r.chen,,Automated
+JE-100435,1,2026-05-22,2026-05-22 15:00:23,1100,Accounts Receivable,Customer sales invoice,1202.52,0,a.khan,fin.manager,Automated
+JE-100435,2,2026-05-22,2026-05-22 15:00:23,4000,Revenue,Customer sales invoice,0,1202.52,a.khan,fin.manager,Automated
+JE-100436,1,2026-06-01,2026-06-01 15:49:49,1500,Fixed Assets,Equipment purchase,631.72,0,a.khan,,Automated
+JE-100436,2,2026-06-01,2026-06-01 15:49:49,1000,Cash,Equipment purchase,0,631.72,a.khan,,Automated
+JE-100437,1,2026-03-04,2026-03-04 10:00:59,1200,Inventory,Inventory purchase,32328.93,0,r.chen,controller,Automated
+JE-100437,2,2026-03-04,2026-03-04 10:00:59,2000,Accounts Payable,Inventory purchase,0,32328.93,r.chen,controller,Automated
+JE-100438,1,2026-06-12,2026-06-12 08:21:00,5000,Cost of Goods Sold,Cost of goods sold,6124.9,0,k.nguyen,,Automated
+JE-100438,2,2026-06-12,2026-06-12 08:21:00,1200,Inventory,Cost of goods sold,0,6124.9,k.nguyen,,Automated
+JE-100439,1,2026-03-02,2026-03-02 14:31:03,1100,Accounts Receivable,Customer sales invoice,220.31,0,a.khan,,Automated
+JE-100439,2,2026-03-02,2026-03-02 14:31:03,4000,Revenue,Customer sales invoice,0,220.31,a.khan,,Automated
+JE-100440,1,2026-05-14,2026-05-14 14:44:57,6100,Rent Expense,Monthly office rent,139.6,0,m.lopez,cfo,Automated
+JE-100440,2,2026-05-14,2026-05-14 14:44:57,1000,Cash,Monthly office rent,0,139.6,m.lopez,cfo,Automated
+JE-100441,1,2026-02-04,2026-02-04 14:04:37,6100,Rent Expense,Monthly office rent,8251.69,0,s.patel,cfo,Automated
+JE-100441,2,2026-02-04,2026-02-04 14:04:37,1000,Cash,Monthly office rent,0,8251.69,s.patel,cfo,Automated
+JE-100442,1,2026-06-29,2026-06-29 13:20:28,6200,Utilities,Electricity and water,604.43,0,m.lopez,controller,Automated
+JE-100442,2,2026-06-29,2026-06-29 13:20:28,2000,Accounts Payable,Electricity and water,0,604.43,m.lopez,controller,Automated
+JE-100443,1,2026-01-28,2026-01-28 10:06:10,6200,Utilities,Electricity and water,37479.35,0,r.chen,fin.manager,Automated
+JE-100443,2,2026-01-28,2026-01-28 10:06:10,2000,Accounts Payable,Electricity and water,0,37479.35,r.chen,fin.manager,Automated
+JE-100444,1,2026-05-18,2026-05-18 13:49:13,6000,Payroll Expense,Payroll run,2195.29,0,r.chen,fin.manager,Automated
+JE-100444,2,2026-05-18,2026-05-18 13:49:13,1000,Cash,Payroll run,0,2195.29,r.chen,fin.manager,Automated
+JE-100445,1,2026-06-25,2026-06-25 12:52:45,6100,Rent Expense,Monthly office rent,198.79,0,d.wilson,,Automated
+JE-100445,2,2026-06-25,2026-06-25 12:52:45,1000,Cash,Monthly office rent,0,198.79,d.wilson,,Automated
+JE-100446,1,2026-03-25,2026-03-25 10:05:45,5000,Cost of Goods Sold,Cost of goods sold,57352.41,0,a.khan,fin.manager,Automated
+JE-100446,2,2026-03-25,2026-03-25 10:05:45,1200,Inventory,Cost of goods sold,0,57352.41,a.khan,fin.manager,Automated
+JE-100447,1,2026-06-23,2026-06-23 12:16:52,6300,Travel and Entertainment,Employee travel reimbursement,4947.85,0,a.khan,fin.manager,Automated
+JE-100447,2,2026-06-23,2026-06-23 12:16:52,2000,Accounts Payable,Employee travel reimbursement,0,4947.85,a.khan,fin.manager,Automated
+JE-100448,1,2026-05-21,2026-05-21 11:06:29,6500,Marketing,Advertising campaign,6833.57,0,j.smith,,Automated
+JE-100448,2,2026-05-21,2026-05-21 11:06:29,2000,Accounts Payable,Advertising campaign,0,6833.57,j.smith,,Automated
+JE-100449,1,2026-01-16,2026-01-16 11:08:12,6200,Utilities,Electricity and water,251.65,0,k.nguyen,cfo,Automated
+JE-100449,2,2026-01-16,2026-01-16 11:08:12,2000,Accounts Payable,Electricity and water,0,251.65,k.nguyen,cfo,Automated
+JE-100450,1,2026-01-20,2026-01-20 08:04:12,6100,Rent Expense,Monthly office rent,8349.66,0,d.wilson,controller,Automated
+JE-100450,2,2026-01-20,2026-01-20 08:04:12,1000,Cash,Monthly office rent,0,8349.66,d.wilson,controller,Automated
+JE-100451,1,2026-03-26,2026-03-26 09:02:29,6100,Rent Expense,Monthly office rent,96996.78,0,j.smith,controller,Automated
+JE-100451,2,2026-03-26,2026-03-26 09:02:29,1000,Cash,Monthly office rent,0,96996.78,j.smith,controller,Automated
+JE-100452,1,2026-05-08,2026-05-08 08:24:43,1500,Fixed Assets,Equipment purchase,2687.92,0,r.chen,controller,Automated
+JE-100452,2,2026-05-08,2026-05-08 08:24:43,1000,Cash,Equipment purchase,0,2687.92,r.chen,controller,Automated
+JE-100453,1,2026-01-09,2026-01-09 17:39:39,6200,Utilities,Electricity and water,808.05,0,a.khan,,Automated
+JE-100453,2,2026-01-09,2026-01-09 17:39:39,2000,Accounts Payable,Electricity and water,0,808.05,a.khan,,Automated
+JE-100454,1,2026-05-21,2026-05-21 15:03:05,6500,Marketing,Advertising campaign,2288.62,0,m.lopez,fin.manager,Automated
+JE-100454,2,2026-05-21,2026-05-21 15:03:05,2000,Accounts Payable,Advertising campaign,0,2288.62,m.lopez,fin.manager,Automated
+JE-100455,1,2026-05-15,2026-05-15 11:40:51,5000,Cost of Goods Sold,Cost of goods sold,13205.45,0,s.patel,controller,Automated
+JE-100455,2,2026-05-15,2026-05-15 11:40:51,1200,Inventory,Cost of goods sold,0,13205.45,s.patel,controller,Automated
+JE-100456,1,2026-04-02,2026-04-02 15:34:50,6300,Travel and Entertainment,Employee travel reimbursement,38047.14,0,r.chen,fin.manager,Automated
+JE-100456,2,2026-04-02,2026-04-02 15:34:50,2000,Accounts Payable,Employee travel reimbursement,0,38047.14,r.chen,fin.manager,Automated
+JE-100457,1,2026-04-10,2026-04-10 12:11:01,1500,Fixed Assets,Equipment purchase,4548.81,0,m.lopez,controller,Automated
+JE-100457,2,2026-04-10,2026-04-10 12:11:01,1000,Cash,Equipment purchase,0,4548.81,m.lopez,controller,Automated
+JE-100458,1,2026-05-01,2026-05-01 16:22:49,1100,Accounts Receivable,Customer sales invoice,156.08,0,s.patel,,Automated
+JE-100458,2,2026-05-01,2026-05-01 16:22:49,4000,Revenue,Customer sales invoice,0,156.08,s.patel,,Automated
+JE-100459,1,2026-06-18,2026-06-18 11:17:34,6200,Utilities,Electricity and water,214.01,0,k.nguyen,,Automated
+JE-100459,2,2026-06-18,2026-06-18 11:17:34,2000,Accounts Payable,Electricity and water,0,214.01,k.nguyen,,Automated
+JE-100460,1,2026-02-26,2026-02-26 17:54:51,6400,Professional Fees,Consulting services invoice,33217.28,0,r.chen,fin.manager,Automated
+JE-100460,2,2026-02-26,2026-02-26 17:54:51,2000,Accounts Payable,Consulting services invoice,0,33217.28,r.chen,fin.manager,Automated
+JE-100461,1,2026-03-02,2026-03-02 13:58:37,6400,Professional Fees,Consulting services invoice,3908.03,0,s.patel,s.patel,Manual
+JE-100461,2,2026-03-02,2026-03-02 13:58:37,2000,Accounts Payable,Consulting services invoice,0,3908.03,s.patel,s.patel,Manual
+JE-100462,1,2026-01-08,2026-01-08 17:36:09,6400,Professional Fees,Consulting services invoice,6203.36,0,d.wilson,d.wilson,Manual
+JE-100462,2,2026-01-08,2026-01-08 17:36:09,2000,Accounts Payable,Consulting services invoice,0,6203.36,d.wilson,d.wilson,Manual
+JE-100463,1,2026-05-25,2026-05-25 15:34:19,6400,Professional Fees,Consulting services invoice,7020.18,0,a.khan,a.khan,Manual
+JE-100463,2,2026-05-25,2026-05-25 15:34:19,2000,Accounts Payable,Consulting services invoice,0,7020.18,a.khan,a.khan,Manual
+JE-100464,1,2026-05-06,2026-05-06 11:38:14,6400,Professional Fees,Consulting services invoice,2541.54,0,j.smith,j.smith,Manual
+JE-100464,2,2026-05-06,2026-05-06 11:38:14,2000,Accounts Payable,Consulting services invoice,0,2541.54,j.smith,j.smith,Manual
+JE-100465,1,2026-01-06,2026-01-06 13:58:39,6400,Professional Fees,Consulting services invoice,4867.93,0,s.patel,s.patel,Manual
+JE-100465,2,2026-01-06,2026-01-06 13:58:39,2000,Accounts Payable,Consulting services invoice,0,4867.93,s.patel,s.patel,Manual
+JE-100466,1,2026-02-03,2026-02-03 10:58:51,6300,Travel and Entertainment,Employee travel reimbursement,3044.55,0,k.nguyen,fin.manager,Automated
+JE-100466,2,2026-02-03,2026-02-03 10:58:51,2000,Accounts Payable,Employee travel reimbursement,0,3044.55,k.nguyen,fin.manager,Automated
+JE-100467,1,2026-02-04,2026-02-04 08:09:37,6300,Travel and Entertainment,Employee travel reimbursement,3044.55,0,d.wilson,controller,Automated
+JE-100467,2,2026-02-04,2026-02-04 08:09:37,2000,Accounts Payable,Employee travel reimbursement,0,3044.55,d.wilson,controller,Automated
+JE-100468,1,2026-01-29,2026-01-29 13:04:23,6300,Travel and Entertainment,Employee travel reimbursement,6078.89,0,d.wilson,cfo,Automated
+JE-100468,2,2026-01-29,2026-01-29 13:04:23,2000,Accounts Payable,Employee travel reimbursement,0,6078.89,d.wilson,cfo,Automated
+JE-100469,1,2026-02-02,2026-02-02 17:06:21,6300,Travel and Entertainment,Employee travel reimbursement,6078.89,0,m.lopez,fin.manager,Automated
+JE-100469,2,2026-02-02,2026-02-02 17:06:21,2000,Accounts Payable,Employee travel reimbursement,0,6078.89,m.lopez,fin.manager,Automated
+JE-100470,1,2026-02-04,2026-02-04 14:50:40,6300,Travel and Entertainment,Employee travel reimbursement,6855.16,0,r.chen,cfo,Automated
+JE-100470,2,2026-02-04,2026-02-04 14:50:40,2000,Accounts Payable,Employee travel reimbursement,0,6855.16,r.chen,cfo,Automated
+JE-100471,1,2026-02-07,2026-02-07 10:45:35,6300,Travel and Entertainment,Employee travel reimbursement,6855.16,0,d.wilson,cfo,Automated
+JE-100471,2,2026-02-07,2026-02-07 10:45:35,2000,Accounts Payable,Employee travel reimbursement,0,6855.16,d.wilson,cfo,Automated
+JE-100472,1,2026-04-02,2026-04-02 17:52:11,6300,Travel and Entertainment,Employee travel reimbursement,2339.42,0,r.chen,fin.manager,Automated
+JE-100472,2,2026-04-02,2026-04-02 17:52:11,2000,Accounts Payable,Employee travel reimbursement,0,2339.42,r.chen,fin.manager,Automated
+JE-100473,1,2026-04-05,2026-04-05 10:11:46,6300,Travel and Entertainment,Employee travel reimbursement,2339.42,0,j.smith,cfo,Automated
+JE-100473,2,2026-04-05,2026-04-05 10:11:46,2000,Accounts Payable,Employee travel reimbursement,0,2339.42,j.smith,cfo,Automated
+JE-100474,1,2026-05-27,2026-05-27 17:02:11,6900,Miscellaneous Expense,Vendor services,9687.97,0,s.patel,fin.manager,Manual
+JE-100474,2,2026-05-27,2026-05-27 17:02:11,2000,Accounts Payable,Vendor services,0,9687.97,s.patel,fin.manager,Manual
+JE-100475,1,2026-02-26,2026-02-26 09:59:31,6900,Miscellaneous Expense,Vendor services,9807.03,0,a.khan,fin.manager,Manual
+JE-100475,2,2026-02-26,2026-02-26 09:59:31,2000,Accounts Payable,Vendor services,0,9807.03,a.khan,fin.manager,Manual
+JE-100476,1,2026-01-20,2026-01-20 13:10:40,6900,Miscellaneous Expense,Vendor services,9614.24,0,j.smith,cfo,Manual
+JE-100476,2,2026-01-20,2026-01-20 13:10:40,2000,Accounts Payable,Vendor services,0,9614.24,j.smith,cfo,Manual
+JE-100477,1,2026-03-27,2026-03-27 12:13:15,6900,Miscellaneous Expense,Vendor services,9714.38,0,d.wilson,controller,Manual
+JE-100477,2,2026-03-27,2026-03-27 12:13:15,2000,Accounts Payable,Vendor services,0,9714.38,d.wilson,controller,Manual
+JE-100478,1,2026-03-31,2026-03-31 09:46:00,6900,Miscellaneous Expense,Vendor services,9623.2,0,j.smith,fin.manager,Manual
+JE-100478,2,2026-03-31,2026-03-31 09:46:00,2000,Accounts Payable,Vendor services,0,9623.2,j.smith,fin.manager,Manual
+JE-100479,1,2026-04-23,2026-04-23 10:56:26,1500,Fixed Assets,Equipment purchase,38373.04,0,r.chen,,Manual
+JE-100479,2,2026-04-23,2026-04-23 10:56:26,1000,Cash,Equipment purchase,0,38373.04,r.chen,,Manual
+JE-100480,1,2026-04-07,2026-04-07 14:06:53,1500,Fixed Assets,Equipment purchase,24644.32,0,r.chen,,Manual
+JE-100480,2,2026-04-07,2026-04-07 14:06:53,1000,Cash,Equipment purchase,0,24644.32,r.chen,,Manual
+JE-100481,1,2026-05-28,2026-05-28 11:10:28,1500,Fixed Assets,Equipment purchase,35434.9,0,j.smith,,Manual
+JE-100481,2,2026-05-28,2026-05-28 11:10:28,1000,Cash,Equipment purchase,0,35434.9,j.smith,,Manual
+JE-100482,1,2026-01-09,2026-01-09 13:16:06,1500,Fixed Assets,Equipment purchase,22616.71,0,j.smith,,Manual
+JE-100482,2,2026-01-09,2026-01-09 13:16:06,1000,Cash,Equipment purchase,0,22616.71,j.smith,,Manual
+JE-100483,1,2026-03-29,2026-03-29 14:10:46,6500,Marketing,Advertising campaign,364.21,0,j.smith,cfo,Automated
+JE-100483,2,2026-03-29,2026-03-29 14:10:46,2000,Accounts Payable,Advertising campaign,0,364.21,j.smith,cfo,Automated
+JE-100484,1,2026-01-24,2026-01-24 17:57:30,6500,Marketing,Advertising campaign,1303.88,0,d.wilson,controller,Automated
+JE-100484,2,2026-01-24,2026-01-24 17:57:30,2000,Accounts Payable,Advertising campaign,0,1303.88,d.wilson,controller,Automated
+JE-100485,1,2026-02-22,2026-02-22 14:44:35,6500,Marketing,Advertising campaign,164253.56,0,d.wilson,cfo,Automated
+JE-100485,2,2026-02-22,2026-02-22 14:44:35,2000,Accounts Payable,Advertising campaign,0,164253.56,d.wilson,cfo,Automated
+JE-100486,1,2026-03-14,2026-03-14 09:03:25,6500,Marketing,Advertising campaign,958.12,0,s.patel,cfo,Automated
+JE-100486,2,2026-03-14,2026-03-14 09:03:25,2000,Accounts Payable,Advertising campaign,0,958.12,s.patel,cfo,Automated
+JE-100487,1,2026-05-03,2026-05-03 08:13:10,6500,Marketing,Advertising campaign,455.96,0,d.wilson,fin.manager,Automated
+JE-100487,2,2026-05-03,2026-05-03 08:13:10,2000,Accounts Payable,Advertising campaign,0,455.96,d.wilson,fin.manager,Automated
+JE-100488,1,2026-05-02,2026-05-02 12:50:25,6500,Marketing,Advertising campaign,60874.86,0,r.chen,fin.manager,Automated
+JE-100488,2,2026-05-02,2026-05-02 12:50:25,2000,Accounts Payable,Advertising campaign,0,60874.86,r.chen,fin.manager,Automated
+JE-100489,1,2026-06-19,2026-06-19 03:05:00,6900,Miscellaneous Expense,Month-end accrual,13126.81,0,r.chen,controller,Manual
+JE-100489,2,2026-06-19,2026-06-19 03:05:00,2000,Accounts Payable,Month-end accrual,0,13126.81,r.chen,controller,Manual
+JE-100490,1,2026-04-08,2026-04-08 03:11:00,6900,Miscellaneous Expense,Month-end accrual,2958.41,0,m.lopez,fin.manager,Manual
+JE-100490,2,2026-04-08,2026-04-08 03:11:00,2000,Accounts Payable,Month-end accrual,0,2958.41,m.lopez,fin.manager,Manual
+JE-100491,1,2026-04-30,2026-04-30 03:14:00,6900,Miscellaneous Expense,Month-end accrual,57857.53,0,s.patel,controller,Manual
+JE-100491,2,2026-04-30,2026-04-30 03:14:00,2000,Accounts Payable,Month-end accrual,0,57857.53,s.patel,controller,Manual
+JE-100492,1,2026-01-22,2026-01-22 03:51:00,6900,Miscellaneous Expense,Month-end accrual,6120.43,0,k.nguyen,cfo,Manual
+JE-100492,2,2026-01-22,2026-01-22 03:51:00,2000,Accounts Payable,Month-end accrual,0,6120.43,k.nguyen,cfo,Manual
+JE-100493,1,2026-05-22,2026-05-22 01:53:00,6900,Miscellaneous Expense,Month-end accrual,1894.31,0,s.patel,fin.manager,Manual
+JE-100493,2,2026-05-22,2026-05-22 01:53:00,2000,Accounts Payable,Month-end accrual,0,1894.31,s.patel,fin.manager,Manual
+JE-100494,1,2026-05-18,2026-05-18 23:36:00,6900,Miscellaneous Expense,Month-end accrual,81181.63,0,r.chen,fin.manager,Manual
+JE-100494,2,2026-05-18,2026-05-18 23:36:00,2000,Accounts Payable,Month-end accrual,0,81181.63,r.chen,fin.manager,Manual
+JE-100495,1,2026-01-31,2026-01-31 08:32:36,6000,Payroll Expense,Payroll accrual adjustment,2008.42,0,s.patel,cfo,Manual
+JE-100495,2,2026-01-31,2026-01-31 08:32:36,2100,Accrued Liabilities,Payroll accrual adjustment,0,2008.42,s.patel,cfo,Manual
+JE-100496,1,2026-06-30,2026-06-30 10:07:48,6000,Payroll Expense,Payroll accrual adjustment,175021.23,0,r.chen,controller,Manual
+JE-100496,2,2026-06-30,2026-06-30 10:07:48,2100,Accrued Liabilities,Payroll accrual adjustment,0,175021.23,r.chen,controller,Manual
+JE-100497,1,2026-02-28,2026-02-28 11:08:02,6000,Payroll Expense,Payroll accrual adjustment,161489.43,0,r.chen,controller,Manual
+JE-100497,2,2026-02-28,2026-02-28 11:08:02,2100,Accrued Liabilities,Payroll accrual adjustment,0,161489.43,r.chen,controller,Manual
+JE-100498,1,2026-06-30,2026-06-30 10:53:38,6000,Payroll Expense,Payroll accrual adjustment,2733.99,0,m.lopez,fin.manager,Manual
+JE-100498,2,2026-06-30,2026-06-30 10:53:38,2100,Accrued Liabilities,Payroll accrual adjustment,0,2733.99,m.lopez,fin.manager,Manual
+JE-100499,1,2026-06-30,2026-06-30 09:05:24,6000,Payroll Expense,Payroll accrual adjustment,103937.91,0,s.patel,fin.manager,Manual
+JE-100499,2,2026-06-30,2026-06-30 09:05:24,2100,Accrued Liabilities,Payroll accrual adjustment,0,103937.91,s.patel,fin.manager,Manual
+JE-100500,1,2026-05-22,2026-05-22 12:33:29,6400,Professional Fees,Professional fees,75000,0,k.nguyen,controller,Manual
+JE-100500,2,2026-05-22,2026-05-22 12:33:29,2000,Accounts Payable,Professional fees,0,75000,k.nguyen,controller,Manual
+JE-100501,1,2026-06-29,2026-06-29 09:26:09,6400,Professional Fees,Professional fees,100000,0,a.khan,cfo,Manual
+JE-100501,2,2026-06-29,2026-06-29 09:26:09,2000,Accounts Payable,Professional fees,0,100000,a.khan,cfo,Manual
+JE-100502,1,2026-01-26,2026-01-26 17:49:06,6400,Professional Fees,Professional fees,25000,0,k.nguyen,fin.manager,Manual
+JE-100502,2,2026-01-26,2026-01-26 17:49:06,2000,Accounts Payable,Professional fees,0,25000,k.nguyen,fin.manager,Manual
+JE-100503,1,2026-05-18,2026-05-18 14:16:24,6400,Professional Fees,Professional fees,75000,0,d.wilson,fin.manager,Manual
+JE-100503,2,2026-05-18,2026-05-18 14:16:24,2000,Accounts Payable,Professional fees,0,75000,d.wilson,fin.manager,Manual
+JE-100504,1,2026-05-27,2026-05-27 08:11:17,6400,Professional Fees,Professional fees,100000,0,r.chen,controller,Manual
+JE-100504,2,2026-05-27,2026-05-27 08:11:17,2000,Accounts Payable,Professional fees,0,100000,r.chen,controller,Manual
+JE-100505,1,2026-06-08,2026-06-08 14:02:25,6900,Miscellaneous Expense,Reclass to correct prior error,10199.11,0,m.lopez,cfo,Manual
+JE-100505,2,2026-06-08,2026-06-08 14:02:25,2100,Accrued Liabilities,Reclass to correct prior error,0,10199.11,m.lopez,cfo,Manual
+JE-100506,1,2026-03-02,2026-03-02 15:58:17,6900,Miscellaneous Expense,Reversal of accrual,145.43,0,m.lopez,controller,Manual
+JE-100506,2,2026-03-02,2026-03-02 15:58:17,2100,Accrued Liabilities,Reversal of accrual,0,145.43,m.lopez,controller,Manual
+JE-100507,1,2026-03-19,2026-03-19 15:54:44,6900,Miscellaneous Expense,Plug to balance intercompany,1062.02,0,d.wilson,controller,Manual
+JE-100507,2,2026-03-19,2026-03-19 15:54:44,2100,Accrued Liabilities,Plug to balance intercompany,0,1062.02,d.wilson,controller,Manual
+JE-100508,1,2026-02-04,2026-02-04 15:49:52,6900,Miscellaneous Expense,Write-off of stale balance,980.81,0,m.lopez,fin.manager,Manual
+JE-100508,2,2026-02-04,2026-02-04 15:49:52,2100,Accrued Liabilities,Write-off of stale balance,0,980.81,m.lopez,fin.manager,Manual
+JE-100509,1,2026-04-17,2026-04-17 09:12:28,6900,Miscellaneous Expense,Manual adjustment per management,9918.16,0,a.khan,fin.manager,Manual
+JE-100509,2,2026-04-17,2026-04-17 09:12:28,2100,Accrued Liabilities,Manual adjustment per management,0,9918.16,a.khan,fin.manager,Manual
+JE-100510,1,2026-05-05,2026-05-05 13:52:03,6900,Miscellaneous Expense,True-up of estimate,32086.91,0,s.patel,controller,Manual
+JE-100510,2,2026-05-05,2026-05-05 13:52:03,2100,Accrued Liabilities,True-up of estimate,0,32086.91,s.patel,controller,Manual
+JE-100511,1,2026-04-14,2026-04-14 16:56:36,4000,Revenue,Revenue reclassification to expense,9747.74,0,j.smith,controller,Manual
+JE-100511,2,2026-04-14,2026-04-14 16:56:36,6900,Miscellaneous Expense,Revenue reclassification to expense,0,9747.74,j.smith,controller,Manual
+JE-100512,1,2026-02-19,2026-02-19 11:53:03,4000,Revenue,Revenue reclassification to expense,35631.32,0,a.khan,controller,Manual
+JE-100512,2,2026-02-19,2026-02-19 11:53:03,6900,Miscellaneous Expense,Revenue reclassification to expense,0,35631.32,a.khan,controller,Manual
+JE-100513,1,2026-04-27,2026-04-27 13:45:12,4000,Revenue,Revenue reclassification to expense,6769.57,0,m.lopez,fin.manager,Manual
+JE-100513,2,2026-04-27,2026-04-27 13:45:12,6900,Miscellaneous Expense,Revenue reclassification to expense,0,6769.57,m.lopez,fin.manager,Manual
