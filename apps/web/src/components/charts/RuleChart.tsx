@@ -1,5 +1,5 @@
 import { Bar, BarChart, Cell, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
-import { COLORS, tooltipStyle } from "@/lib/chart";
+import { useChartColors } from "@/lib/chart";
 import type { NamedCount, Severity } from "@/lib/types";
 
 const SEVERITY_BY_TITLE: Record<string, Severity> = {
@@ -15,17 +15,13 @@ const SEVERITY_BY_TITLE: Record<string, Severity> = {
   "Suspiciously round amount": "low",
 };
 
-const toneColor: Record<Severity, string> = {
-  high: COLORS.high,
-  medium: COLORS.medium,
-  low: COLORS.low,
-};
-
 export function RuleChart({ data }: { data: NamedCount[] }) {
+  const { c, tooltipStyle } = useChartColors();
+  const toneColor: Record<Severity, string> = { high: c.high, medium: c.medium, low: c.low };
   const rows = [...data].sort((a, b) => a.count - b.count);
   return (
     <ResponsiveContainer width="100%" height={Math.max(220, rows.length * 30)}>
-      <BarChart data={rows} layout="vertical" margin={{ top: 0, right: 16, left: 8, bottom: 0 }}>
+      <BarChart data={rows} layout="vertical" margin={{ top: 0, right: 18, left: 8, bottom: 0 }}>
         <XAxis type="number" hide />
         <YAxis
           type="category"
@@ -33,14 +29,14 @@ export function RuleChart({ data }: { data: NamedCount[] }) {
           width={176}
           tickLine={false}
           axisLine={false}
-          tick={{ fontSize: 11.5, fill: COLORS.axis }}
+          tick={{ fontSize: 11.5, fill: c.axis }}
         />
         <Tooltip
           contentStyle={tooltipStyle}
-          cursor={{ fill: "hsl(214 22% 92% / 0.5)" }}
+          cursor={{ fill: c.cursor }}
           formatter={(v: number) => [`${v} entries`, "Exceptions"]}
         />
-        <Bar dataKey="count" radius={[0, 4, 4, 0]} maxBarSize={18} isAnimationActive={false} label={{ position: "right", fontSize: 11, fill: COLORS.axis }}>
+        <Bar dataKey="count" radius={[0, 4, 4, 0]} maxBarSize={18} isAnimationActive={false} label={{ position: "right", fontSize: 11, fill: c.axis }}>
           {rows.map((r) => (
             <Cell key={r.name} fill={toneColor[SEVERITY_BY_TITLE[r.name] ?? "low"]} />
           ))}

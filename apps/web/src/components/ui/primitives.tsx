@@ -4,7 +4,7 @@ import type { Severity } from "@/lib/types";
 import { cn, severityDot, severityLabel } from "@/lib/utils";
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
-  variant?: "primary" | "secondary" | "outline" | "ghost";
+  variant?: "primary" | "secondary" | "outline" | "ghost" | "onInk";
   size?: "sm" | "md";
 };
 
@@ -13,6 +13,7 @@ const buttonVariants: Record<NonNullable<ButtonProps["variant"]>, string> = {
   secondary: "bg-surface text-foreground border border-border hover:bg-muted-surface",
   outline: "border border-border text-foreground hover:bg-muted-surface",
   ghost: "text-muted hover:bg-muted-surface hover:text-foreground",
+  onInk: "border border-white/15 text-ink-foreground hover:bg-white/10",
 };
 
 export function Button({ variant = "primary", size = "md", className, ...props }: ButtonProps) {
@@ -34,7 +35,7 @@ export function Button({ variant = "primary", size = "md", className, ...props }
 export function Card({ className, ...props }: HTMLAttributes<HTMLDivElement>) {
   return (
     <div
-      className={cn("rounded-lg border border-border bg-surface shadow-card", className)}
+      className={cn("rounded-xl border border-border bg-surface shadow-card", className)}
       {...props}
     />
   );

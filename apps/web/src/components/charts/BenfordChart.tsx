@@ -9,10 +9,11 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { COLORS, tooltipStyle } from "@/lib/chart";
+import { useChartColors } from "@/lib/chart";
 import type { Benford } from "@/lib/types";
 
 export function BenfordChart({ benford }: { benford: Benford }) {
+  const { c, tooltipStyle } = useChartColors();
   const data = benford.digits.map((d) => ({
     digit: d.digit,
     Actual: +(d.actual * 100).toFixed(2),
@@ -21,33 +22,33 @@ export function BenfordChart({ benford }: { benford: Benford }) {
   return (
     <ResponsiveContainer width="100%" height={240}>
       <ComposedChart data={data} margin={{ top: 8, right: 8, left: -14, bottom: 0 }}>
-        <CartesianGrid vertical={false} stroke={COLORS.grid} />
+        <CartesianGrid vertical={false} stroke={c.grid} />
         <XAxis
           dataKey="digit"
           tickLine={false}
-          axisLine={{ stroke: COLORS.grid }}
-          tick={{ fontSize: 12, fill: COLORS.axis }}
+          axisLine={{ stroke: c.grid }}
+          tick={{ fontSize: 12, fill: c.axis }}
         />
         <YAxis
           tickLine={false}
           axisLine={false}
-          tick={{ fontSize: 11, fill: COLORS.axis }}
+          tick={{ fontSize: 11, fill: c.axis }}
           tickFormatter={(v) => `${v}%`}
         />
         <Tooltip
           contentStyle={tooltipStyle}
-          cursor={{ fill: "hsl(214 22% 92% / 0.5)" }}
+          cursor={{ fill: c.cursor }}
           formatter={(v: number, name) => [`${v}%`, name]}
           labelFormatter={(l) => `Leading digit ${l}`}
         />
-        <Legend wrapperStyle={{ fontSize: 12 }} iconType="circle" iconSize={8} />
-        <Bar dataKey="Actual" fill={COLORS.primary} radius={[3, 3, 0, 0]} maxBarSize={30} isAnimationActive={false} />
+        <Legend wrapperStyle={{ fontSize: 12, color: c.axis }} iconType="circle" iconSize={8} />
+        <Bar dataKey="Actual" fill={c.primary} radius={[3, 3, 0, 0]} maxBarSize={30} isAnimationActive={false} />
         <Line
           dataKey="Expected"
-          stroke={COLORS.expected}
+          stroke={c.expected}
           strokeWidth={2}
           strokeDasharray="4 4"
-          dot={{ r: 2.5, fill: COLORS.expected }}
+          dot={{ r: 2.5, fill: c.expected }}
           isAnimationActive={false}
         />
       </ComposedChart>

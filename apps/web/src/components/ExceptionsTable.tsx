@@ -2,7 +2,7 @@ import { Search } from "lucide-react";
 import { useMemo, useState } from "react";
 import { RiskMeter, SeverityBadge } from "@/components/ui/primitives";
 import type { EntryRisk, Severity } from "@/lib/types";
-import { cn, formatCurrency } from "@/lib/utils";
+import { cn, formatCurrency, severityBorder } from "@/lib/utils";
 
 const FILTERS: { key: "all" | Severity; label: string }[] = [
   { key: "all", label: "All" },
@@ -76,7 +76,7 @@ export function ExceptionsTable({
         <table className="w-full border-collapse text-sm">
           <thead className="sticky top-0 z-10 bg-muted-surface/90 backdrop-blur">
             <tr className="text-left text-xs font-medium text-muted">
-              <th className="px-5 py-2.5 font-medium">Entry</th>
+              <th className="border-l-[3px] border-l-transparent px-5 py-2.5 font-medium">Entry</th>
               <th className="px-3 py-2.5 font-medium">Posted</th>
               <th className="px-3 py-2.5 font-medium">Preparer</th>
               <th className="px-3 py-2.5 text-right font-medium">Value</th>
@@ -99,7 +99,7 @@ export function ExceptionsTable({
                   selectedId === e.je_id ? "bg-primary/[0.06]" : "hover:bg-muted-surface/60 focus-visible:bg-muted-surface",
                 )}
               >
-                <td className="px-5 py-3">
+                <td className={cn("border-l-[3px] px-5 py-3", severityBorder[e.severity])}>
                   <div className="font-medium text-foreground">{e.je_id}</div>
                   <div className="max-w-[180px] truncate text-xs text-muted">{e.description}</div>
                 </td>

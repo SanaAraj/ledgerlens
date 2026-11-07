@@ -4,7 +4,7 @@ import { RuleChart } from "@/components/charts/RuleChart";
 import { SeverityDonut } from "@/components/charts/SeverityDonut";
 import { EntryDrawer } from "@/components/EntryDrawer";
 import { ExceptionsTable } from "@/components/ExceptionsTable";
-import { KpiRow } from "@/components/KpiRow";
+import { HeroSummary } from "@/components/HeroSummary";
 import { Card, CardHeader } from "@/components/ui/primitives";
 import type { AnalysisResult, EntryRisk } from "@/lib/types";
 import { formatNumber } from "@/lib/utils";
@@ -27,7 +27,7 @@ export function Dashboard({ result }: { result: AnalysisResult }) {
         <span>Analysed {result.generated_at}</span>
       </div>
 
-      <KpiRow stats={stats} />
+      <HeroSummary stats={stats} />
 
       <div className="mt-4 grid gap-4 lg:grid-cols-3">
         <Card className="lg:col-span-2">

@@ -1,13 +1,14 @@
 import { Cell, Pie, PieChart, ResponsiveContainer, Tooltip } from "recharts";
-import { COLORS, tooltipStyle } from "@/lib/chart";
+import { useChartColors } from "@/lib/chart";
 import type { Stats } from "@/lib/types";
 import { formatNumber } from "@/lib/utils";
 
 export function SeverityDonut({ stats }: { stats: Stats }) {
+  const { c, tooltipStyle } = useChartColors();
   const data = [
-    { name: "High", value: stats.high_risk, color: COLORS.high },
-    { name: "Medium", value: stats.medium_risk, color: COLORS.medium },
-    { name: "Low", value: stats.low_risk, color: COLORS.low },
+    { name: "High", value: stats.high_risk, color: c.high },
+    { name: "Medium", value: stats.medium_risk, color: c.medium },
+    { name: "Low", value: stats.low_risk, color: c.low },
   ].filter((d) => d.value > 0);
 
   return (

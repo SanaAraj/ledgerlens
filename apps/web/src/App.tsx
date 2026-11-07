@@ -21,7 +21,7 @@ export function App() {
   const headerActions = result ? (
     <>
       <Button
-        variant="secondary"
+        variant="onInk"
         size="sm"
         onClick={() => {
           setResult(null);

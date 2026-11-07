@@ -3,28 +3,67 @@
 @tailwind utilities;
 
 :root {
-  --background: 210 20% 98%;
+  --background: 220 33% 98%;
   --surface: 0 0% 100%;
-  --border: 214 22% 90%;
-  --foreground: 222 47% 11%;
-  --muted: 215 16% 42%;
-  --muted-surface: 210 20% 96%;
+  --surface-2: 220 30% 97%;
+  --border: 220 20% 90%;
+  --border-strong: 220 18% 84%;
+  --foreground: 222 45% 11%;
+  --muted: 220 11% 44%;
+  --muted-surface: 220 30% 96%;
 
-  --primary: 226 64% 44%;
+  --primary: 231 64% 52%;
   --primary-foreground: 0 0% 100%;
+  --ring: 231 70% 58%;
 
-  --ink: 222 47% 11%;
-  --ink-foreground: 210 20% 98%;
-  --ink-muted: 215 20% 65%;
+  --ink: 224 44% 10%;
+  --ink-foreground: 220 30% 97%;
+  --ink-muted: 220 16% 66%;
+  --ink-border: 220 30% 22%;
 
   --high: 0 72% 51%;
-  --high-surface: 0 86% 97%;
-  --medium: 30 95% 44%;
-  --medium-surface: 45 97% 92%;
-  --low: 215 14% 47%;
-  --low-surface: 210 20% 95%;
-  --ok: 160 84% 36%;
-  --ok-surface: 160 60% 95%;
+  --high-surface: 0 80% 96%;
+  --medium: 30 92% 44%;
+  --medium-surface: 42 96% 92%;
+  --low: 220 12% 48%;
+  --low-surface: 220 24% 94%;
+  --ok: 160 78% 36%;
+  --ok-surface: 160 55% 94%;
+
+  --shadow-card: 0 1px 2px rgba(16, 24, 40, 0.04), 0 1px 3px rgba(16, 24, 40, 0.06);
+  --shadow-lift: 0 6px 20px -8px rgba(16, 24, 40, 0.18);
+}
+
+:root.dark {
+  --background: 224 42% 7%;
+  --surface: 223 33% 11%;
+  --surface-2: 223 30% 13%;
+  --border: 223 22% 19%;
+  --border-strong: 223 20% 26%;
+  --foreground: 220 30% 96%;
+  --muted: 220 13% 62%;
+  --muted-surface: 223 28% 15%;
+
+  --primary: 228 82% 68%;
+  --primary-foreground: 224 44% 8%;
+  --ring: 228 82% 68%;
+
+  --ink: 224 40% 9%;
+  --ink-foreground: 220 30% 97%;
+  --ink-muted: 220 14% 60%;
+  --ink-border: 223 24% 18%;
+
+  --high: 2 78% 64%;
+  --high-surface: 0 45% 18%;
+  --medium: 36 92% 58%;
+  --medium-surface: 34 55% 17%;
+  --low: 220 12% 62%;
+  --low-surface: 223 22% 20%;
+  --ok: 158 65% 50%;
+  --ok-surface: 160 40% 16%;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.35);
+  --shadow-lift: 0 10px 28px -10px rgba(0, 0, 0, 0.6);
 }
 
 * {
@@ -37,7 +76,13 @@ html {
 
 body {
   margin: 0;
+  min-height: 100vh;
   background-color: hsl(var(--background));
+  background-image: radial-gradient(
+    1200px 600px at 50% -200px,
+    hsl(var(--primary) / 0.06),
+    transparent
+  );
   color: hsl(var(--foreground));
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -49,18 +94,18 @@ body {
 }
 
 ::selection {
-  background: hsl(var(--primary) / 0.18);
+  background: hsl(var(--primary) / 0.2);
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 11px;
+  height: 11px;
 }
 ::-webkit-scrollbar-thumb {
-  background: hsl(var(--border));
+  background: hsl(var(--border-strong));
   border-radius: 999px;
-  border: 2px solid hsl(var(--background));
+  border: 3px solid hsl(var(--background));
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: hsl(var(--muted) / 0.5);
+  background: hsl(var(--muted) / 0.55);
 }

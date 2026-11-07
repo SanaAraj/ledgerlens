@@ -10,7 +10,7 @@
 [![React 18](https://img.shields.io/badge/React-18-149eca.svg?logo=react&logoColor=white)](apps/web/package.json)
 [![LLM: OpenAI-compatible](https://img.shields.io/badge/LLM-OpenAI--compatible%20(Groq)-f55036.svg)](https://console.groq.com/)
 
-<img src="docs/demo.gif" alt="Analyzing a 513-entry general ledger: a dashboard shows flagged entries, a Benford's Law chart of leading digits versus expected, exceptions by rule, and a risk-scored table; clicking an entry opens its findings and an AI-generated auditor assessment with the suggested procedure" width="880">
+<img src="docs/demo.gif" alt="Analyzing a 513-entry general ledger: a dashboard with an audit risk-index gauge, a Benford's Law chart of leading digits versus expected, exceptions by rule, and a risk-scored table; clicking an entry opens its findings and an AI-generated auditor assessment with the suggested procedure, then the view switches to dark mode" width="880">
 
 </div>
 
@@ -25,7 +25,7 @@ API key.
 - **A risk score and severity** for each flagged entry, highest risk first.
 - **An explained finding** for each exception: what fired, why it matters, and the specific evidence.
 - **An AI auditor assessment** on demand: a plain-English risk narrative and the suggested audit procedure.
-- **A dashboard**: flagged counts and value, a Benford leading-digit chart, exceptions by rule, risk-severity mix, and the top preparers.
+- **A dashboard**: an audit risk-index gauge with a verdict, flagged counts and value, a Benford leading-digit chart, exceptions by rule, risk-severity mix, and the top preparers, in light or dark theme.
 - **An exportable XLSX workpaper** with a summary tab and a colour-coded exceptions tab.
 
 ## The audit tests

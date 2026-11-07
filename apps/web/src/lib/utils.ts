@@ -36,3 +36,9 @@ export const severityDot: Record<Severity, string> = {
   medium: "bg-medium",
   low: "bg-low",
 };
+
+export const severityBorder: Record<Severity, string> = {
+  high: "border-l-high",
+  medium: "border-l-medium",
+  low: "border-l-low",
+};
