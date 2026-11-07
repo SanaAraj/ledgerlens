@@ -1,4 +1,4 @@
-import { AlertCircle, Check, Download, FileSpreadsheet, Sparkles, UploadCloud } from "lucide-react";
+import { AlertCircle, Check, Download, FileSpreadsheet, UploadCloud } from "lucide-react";
 import { useRef, useState } from "react";
 import { LandingPreview } from "@/components/LandingPreview";
 import { Button, Spinner } from "@/components/ui/primitives";
@@ -31,10 +31,7 @@ export function UploadPanel({
       <div className="relative mx-auto max-w-[1180px] px-6 py-14 lg:py-20">
         <div className="grid items-center gap-10 lg:grid-cols-[1.05fr_1fr] lg:gap-14">
           <div>
-            <span className="inline-flex items-center gap-1.5 rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-xs font-medium text-primary">
-              <Sparkles className="h-3.5 w-3.5" /> AI audit copilot
-            </span>
-            <h1 className="mt-5 text-4xl font-semibold leading-[1.08] tracking-tight text-foreground sm:text-5xl">
+            <h1 className="text-4xl font-semibold leading-[1.08] tracking-tight text-foreground sm:text-5xl">
               Surface the risky journal entries, instantly
             </h1>
             <p className="mt-4 max-w-md text-[15px] leading-relaxed text-muted">
